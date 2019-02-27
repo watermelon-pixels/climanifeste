@@ -24,9 +24,11 @@ Alors ensemble, mobilisons-nous ! Choisissons de mettre toute notre énergie au 
 * Arriver à un minimum de 100 signatures (en cours...).
 * Communiquer auprès des médias (on recherche un(e) chargé(e) de relation presse).
 
-## En savoir plus
+## Pour aller plus loin
 
 * [Pour un manifeste écologique des professionnels de l'informatique, interview de Jean-François Fourmond](https://techologie.net/episodes/6-manifeste-ecologique-des-professionnels-de-l-informatique.html)
+* [Pour une sobriété numérique](https://theshiftproject.org/article/pour-une-sobriete-numerique-rapport-shift/), le rapport sur l’impact environnemental du numérique, publiée par l'association The Shift Project.
+* [Quel numérique voulons-nous ?](https://reset.fing.org/), une initiative collective menée par l'association Fing.
 
 ## Premiers signataires
 
