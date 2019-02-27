@@ -66,6 +66,7 @@ Alors ensemble, mobilisons-nous ! Choisissons de mettre toute notre énergie au 
 * [Alan Poulain](https://github.com/alanpoulain), développeur
 * [Romuald Priol](https://twitter.com/doc_roms), développeur
 * [Yann Prou](https://github.com/toofff), développeur
+* [Vincent Reuss](http://github.com/vichenze), développeur
 * [Ludovic Riaudel](https://ludovic.riaudel.net/), Product Owner 
 * [Sunny Ripert](http://sunfox.org), développeur
 * [Joachim Robert](https://professeurjoachim.com), designer, intégrateur
