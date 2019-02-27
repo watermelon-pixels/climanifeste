@@ -34,6 +34,7 @@ Alors ensemble, mobilisons-nous ! Choisissons de mettre toute notre énergie au 
 
 * [Nicolas Arduin](https://www.nardu.in), Designer & développeur front-end
 * [Louis Augry](https://github.com/LouisAugry), développeur front-end
+* [Maxime Aurirau](https://github.com/mauriau), Développeur full stack
 * [Nicolas Bondoux](https://github.com/Nsbx), Développeur web
 * [Julien Bouquillon](https://github.com/revolunet), développeur
 * [Fanny Cheung](http://ynote.hk/), développeuse front-end
@@ -43,9 +44,11 @@ Alors ensemble, mobilisons-nous ! Choisissons de mettre toute notre énergie au 
 * [Jean-François Fourmond](https://github.com/jffourmond), développeur freelance
 * [Dimitri Fruit](https://twitter.com/DimitriMorgan), développeur et scrum master
 * [Benoit Galati](https://github.com/b-galati), développeur
+* [Mathieu Girard](https://twitter.com/matGiWeb), Développeur Web
 * [Cyrille Grandval](https://twitter.com/cyrillegrandval), CEO & développeur
 * [Kévin Grenier](https://github.com/mcsky), développeur back/front
 * [Richard Hanna](https://supertanuki.github.io/home/), développeur
+* [Yoann Jauffroy](https://www.linkedin.com/in/yoannjauffroy/), développeur front-end
 * [Vincent "Khylias" Kraus](https://github.com/khylias/), développeur front-end et vacataire
 * [Raphaël Lemaire](http://raphael-lemaire.com/), consultant en logiciel freelance
 * [Luc Leray](https://github.com/lucleray), développeur
@@ -69,7 +72,6 @@ Alors ensemble, mobilisons-nous ! Choisissons de mettre toute notre énergie au 
 * [Maxime Veber](https://github.com/Nek-), développeur
 * [Christophe Villeger](https://twitter.com/VillegerC), développeur back-end
 * [Arnaud Villéger](http://www.mamaisonsurlatoile.fr), webdesigner
-* [Maxime AURIRAU](https://github.com/mauriau), Développeur full stack
 
 ## Sources du manifeste
 
