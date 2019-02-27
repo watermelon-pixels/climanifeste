@@ -34,7 +34,7 @@ Alors ensemble, mobilisons-nous ! Choisissons de mettre toute notre énergie au 
 
 * [Nicolas Arduin](https://www.nardu.in), Designer & développeur front-end
 * [Louis Augry](https://github.com/LouisAugry), développeur front-end
-* [Maxime Aurirau](https://github.com/mauriau), Développeur full stack
+* [Maxime Auriau](https://github.com/mauriau), Développeur full stack
 * [Nicolas Bondoux](https://github.com/Nsbx), Développeur web
 * [Julien Bouquillon](https://github.com/revolunet), développeur
 * [Fanny Cheung](http://ynote.hk/), développeuse front-end
