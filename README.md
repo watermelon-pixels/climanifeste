@@ -70,7 +70,7 @@ Alors ensemble, mobilisons-nous ! Choisissons de mettre toute notre énergie au 
 * [Alexandre "Pierstoval" Rock Ancelet](https://github.com/Pierstoval/), développeur et formateur
 * [Martin Salles](https://github.com/sallesma), développeur
 * [Matthieu Scarset](https://matthieuscarset.com/), développeur
-* [Julien Soleilhavoup] (https://twitter.com/DevInKilt), développeur
+* [Julien Soleilhavoup](https://twitter.com/DevInKilt), développeur
 * [Maxime Veber](https://github.com/Nek-), développeur
 * [Christophe Villeger](https://twitter.com/VillegerC), développeur back-end
 * [Arnaud Villéger](http://www.mamaisonsurlatoile.fr), webdesigner
