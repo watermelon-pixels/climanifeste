@@ -68,6 +68,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Kévin Nadin](https://github.com/kevinjhappy), développeur PHP
 * [Florent Nollet](https://www.linkedin.com/in/florent-n-7584514/), Architecte technique
 * [Marie-Cécile Godwin Paccard](http://mcgodwin.com/), Designer
+* [Stéphane Paillet](https://www.linkedin.com/in/stephanepaillet/), sysadmin
 * [William Pollet](https://github.com/williampollet), développeur
 * [Alan Poulain](https://github.com/alanpoulain), développeur
 * [Romuald Priol](https://twitter.com/doc_roms), développeur
