@@ -46,6 +46,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Brice Coquereau](https://brice.coquereau.fr/), CTO & développeur
 * [Nicolas Dievart](https://github.com/NicolasDievart), développeur
 * [Olivier Dolbeau](https://github.com/odolbeau), CTO & Développeur
+* [Geoffrey Dorne](https://graphism.fr/), designer
 * [Jean-François Fourmond](https://github.com/jffourmond), développeur freelance
 * [Dimitri Fruit](https://twitter.com/DimitriMorgan), développeur et scrum master
 * [Benoit Galati](https://github.com/b-galati), développeur
