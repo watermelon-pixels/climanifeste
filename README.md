@@ -50,6 +50,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Dimitri Fruit](https://twitter.com/DimitriMorgan), développeur et scrum master
 * [Benoit Galati](https://github.com/b-galati), développeur
 * [Mathieu Girard](https://twitter.com/matGiWeb), Développeur Web
+* [Ly-Jia Goldstein](https://twitter.com/Ly_Jia), développeuse
 * [Cyrille Grandval](https://twitter.com/cyrillegrandval), CEO & développeur
 * [Kévin Grenier](https://github.com/mcsky), développeur back/front
 * [Richard Hanna](https://supertanuki.github.io/home/), développeur
