@@ -42,6 +42,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Julien Bouquillon](https://github.com/revolunet), développeur
 * [Fanny Cheung](http://ynote.hk/), développeuse front-end
 * [Brice Coquereau](https://brice.coquereau.fr/), CTO & développeur
+* [Nicolas Damiens](https://twitter.com/chticolas), Développeur
 * [Nicolas Dievart](https://github.com/NicolasDievart), développeur
 * [Olivier Dolbeau](https://github.com/odolbeau), CTO & Développeur
 * [Geoffrey Dorne](https://graphism.fr/), designer
