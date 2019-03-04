@@ -67,6 +67,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Stéphanie Matharet](https://matharet.com/), directrice artistique, graphiste
 * [Hélène Marchois](https://github.com/hmarchois), agiliste
 * [Mathieu Marchois](https://github.com/mmarchois), développeur
+* [Thierry Marianne](https://thierry.marianne.io), développeur
 * [Sylvain Martin](https://github.com/smartinus44), développeur front-end
 * [Kévin Nadin](https://github.com/kevinjhappy), développeur PHP
 * [Florent Nollet](https://www.linkedin.com/in/florent-n-7584514/), Architecte technique
@@ -89,7 +90,6 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Maxime Veber](https://github.com/Nek-), développeur
 * [Christophe Villeger](https://twitter.com/VillegerC), développeur back-end
 * [Arnaud Villéger](http://www.mamaisonsurlatoile.fr), webdesigner
-* [Thierry Marianne](https://thierry.marianne.io), développeur
 
 ## Sources du manifeste
 
