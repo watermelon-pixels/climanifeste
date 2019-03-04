@@ -43,6 +43,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Fanny Cheung](http://ynote.hk/), développeuse front-end
 * [Brice Coquereau](https://brice.coquereau.fr/), CTO & développeur
 * [Nicolas Damiens](https://twitter.com/chticolas), Développeur
+* [Jean-Baptiste Desbas](https://twitter.com/jbdesbas), géomaticien
 * [Indy De Deken](https://twitter.com/indydedeken), ingénieur commercial
 * [Nicolas Dievart](https://github.com/NicolasDievart), développeur
 * [Olivier Dolbeau](https://github.com/odolbeau), CTO & Développeur
@@ -88,7 +89,6 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Maxime Veber](https://github.com/Nek-), développeur
 * [Christophe Villeger](https://twitter.com/VillegerC), développeur back-end
 * [Arnaud Villéger](http://www.mamaisonsurlatoile.fr), webdesigner
-* [Jean-Baptiste Desbas](https://twitter.com/jbdesbas), géomaticien
 
 ## Sources du manifeste
 
