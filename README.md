@@ -40,6 +40,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Maxime Auriau](https://github.com/mauriau), Développeur full stack
 * [Nicolas Bondoux](https://github.com/Nsbx), Développeur web
 * [Julien Bouquillon](https://github.com/revolunet), développeur
+* [Luc Chaffard](http://lucchaffard.com), designer produit
 * [Fanny Cheung](http://ynote.hk/), développeuse front-end
 * [Brice Coquereau](https://brice.coquereau.fr/), CTO & développeur
 * [Nicolas Damiens](https://twitter.com/chticolas), Développeur
