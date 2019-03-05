@@ -64,6 +64,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Richard Hanna](https://supertanuki.github.io/home/), développeur
 * [Matthieu Hébert](https://matthieuhebert.fr), développeur
 * [Yoann Jauffroy](https://www.linkedin.com/in/yoannjauffroy/), développeur front-end
+* [Yann Kozon](https://www.yannkozon.com/), développeur web freelance
 * [Vincent "Khylias" Kraus](https://github.com/khylias/), développeur front-end et vacataire
 * [Christophe Le Besnerais](https://github.com/lebesnec), développeur
 * [Raphaël Lemaire](http://raphael-lemaire.com/), consultant en logiciel freelance
