@@ -15,10 +15,14 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 ## Comment participer ?
 
 * Soutenez cette action :
-  * **en vous ajoutant dans la [liste](#premiers-signataires) des signataires** : [modifiez cette page](https://github.com/climanifeste/climanifeste/edit/master/README.md) et ajoutez `[Prénom Nom](https://site-web-ou-twitter-ou-toute-autre-lien-sur-internet)` (dans l'ordre alphabétique du nom de famille) ou envoyez-nous un mail à contact@climanifeste.net
-  * en mettant une ⭐️ [sur Github](https://github.com/climanifeste/climanifeste)
-  * et **en partageant le manifeste**
-* Impliquez-vous : si vous avez une suggestion pour améliorer le texte ou ajouter un lien, n'hésitez pas à [modifier cette page](https://github.com/climanifeste/climanifeste/edit/master/README.md). Si vous êtes graphiste, juriste, communiquant, dans la relation presse, nous avons besoin de quelques heures de votre temps pour nous aider à faire connaître ce manifeste. Écrivez-nous à contact@climanifeste.net ou venez en discuter sur le [Slack de Techologie](https://join.slack.com/t/techologie/shared_invite/enQtNTMwODc1NTYxNDkxLWExNjQyNDM0MTA2MzFhMDc1NjllMjM5MWE1NzRlMmNlZGNjZjEyNDFlYjljOTM3NTRhNWE2ZjQ0MWYzOTE3YjM)
+  * **en vous ajoutant dans la [liste](#premiers-signataires) des signataires**
+    * si vous avez un compte GitHub, [modifiez cette page](https://github.com/climanifeste/climanifeste/edit/master/README.md) et ajoutez `[Prénom Nom](https://site-web-ou-twitter-ou-toute-autre-lien-sur-internet)` (dans l'ordre alphabétique du nom de famille)
+    * sinon, envoyez-nous Prénom+Nom+lien à contact@climanifeste.net
+  * en partageant le manifeste
+  * [en suivant l'actualité du manifeste sur Twitter](https://twitter.com/climanifeste)
+* Impliquez-vous : 
+  * si vous avez une suggestion pour améliorer le texte ou ajouter un lien, n'hésitez pas à [modifier cette page](https://github.com/climanifeste/climanifeste/edit/master/README.md). 
+  * si vous êtes juriste, communiquant, dans la relation presse, écrivez-nous à contact@climanifeste.net ou venez en discuter sur le [Slack de Techologie](https://join.slack.com/t/techologie/shared_invite/enQtNTMwODc1NTYxNDkxLWExNjQyNDM0MTA2MzFhMDc1NjllMjM5MWE1NzRlMmNlZGNjZjEyNDFlYjljOTM3NTRhNWE2ZjQ0MWYzOTE3YjM)
 
 ## Que reste t-il à faire ?
 
@@ -35,23 +39,24 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 
 [Cliquez-ici](https://github.com/climanifeste/climanifeste/edit/master/README.md) pour ajouter (ou enlever) votre nom à la liste des signataires (dans l'ordre alphabétique du nom de famille) ou envoyez-nous un mail à contact@climanifeste.net. 
 
-* [Nicolas Arduin](https://www.nardu.in), Designer & développeur front-end
+* [Nicolas Arduin](https://www.nardu.in), designer & développeur front-end
 * [Louis Augry](https://github.com/LouisAugry), développeur front-end
-* [Maxime Auriau](https://github.com/mauriau), Développeur full stack
-* [Nicolas Bondoux](https://github.com/Nsbx), Développeur web
+* [Maxime Auriau](https://github.com/mauriau), développeur full stack
+* [Nicolas Bondoux](https://github.com/Nsbx), développeur web
 * [Julien Bouquillon](https://github.com/revolunet), développeur
+* [Luc Chaffard](http://lucchaffard.com), designer produit
 * [Fanny Cheung](http://ynote.hk/), développeuse front-end
 * [Brice Coquereau](https://brice.coquereau.fr/), CTO & développeur
-* [Nicolas Damiens](https://twitter.com/chticolas), Développeur
+* [Nicolas Damiens](https://twitter.com/chticolas), développeur
 * [Jean-Baptiste Desbas](https://twitter.com/jbdesbas), géomaticien
 * [Indy De Deken](https://twitter.com/indydedeken), ingénieur commercial
 * [Nicolas Dievart](https://github.com/NicolasDievart), développeur
-* [Olivier Dolbeau](https://github.com/odolbeau), CTO & Développeur
+* [Olivier Dolbeau](https://github.com/odolbeau), CTO & développeur
 * [Geoffrey Dorne](https://graphism.fr/), designer
 * [Jean-François Fourmond](https://github.com/jffourmond), développeur freelance
 * [Dimitri Fruit](https://twitter.com/DimitriMorgan), développeur et scrum master
 * [Benoit Galati](https://github.com/b-galati), développeur
-* [Mathieu Girard](https://twitter.com/matGiWeb), Développeur Web
+* [Mathieu Girard](https://twitter.com/matGiWeb), développeur web
 * [Ly-Jia Goldstein](https://twitter.com/Ly_Jia), développeuse
 * [Thomas Goldstein](https://github.com/thomasgoldstein), développeur
 * [Cyrille Grandval](https://twitter.com/cyrillegrandval), CEO & développeur
@@ -59,6 +64,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Richard Hanna](https://supertanuki.github.io/home/), développeur
 * [Matthieu Hébert](https://matthieuhebert.fr), développeur
 * [Yoann Jauffroy](https://www.linkedin.com/in/yoannjauffroy/), développeur front-end
+* [Yann Kozon](https://www.yannkozon.com/), développeur web freelance
 * [Vincent "Khylias" Kraus](https://github.com/khylias/), développeur front-end et vacataire
 * [Christophe Le Besnerais](https://github.com/lebesnec), développeur
 * [Raphaël Lemaire](http://raphael-lemaire.com/), consultant en logiciel freelance
@@ -79,7 +85,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Romuald Priol](https://twitter.com/doc_roms), développeur
 * [Yann Prou](https://github.com/toofff), développeur
 * [Vincent Reuss](http://github.com/vichenze), développeur
-* [Ludovic Riaudel](https://ludovic.riaudel.net/), Product Owner 
+* [Ludovic Riaudel](https://ludovic.riaudel.net/), product owner 
 * [Sunny Ripert](http://sunfox.org), développeur
 * [Joachim Robert](https://professeurjoachim.com), designer, intégrateur
 * [Alexandre "Pierstoval" Rock Ancelet](https://github.com/Pierstoval/), développeur et formateur
@@ -88,6 +94,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Matthieu Scarset](https://matthieuscarset.com/), développeur
 * [Julien Soleilhavoup](https://twitter.com/DevInKilt), développeur
 * [Benjamin Sonntag](https://twitter.com/vincib), CEO & cofondateur de la Quadrature du Net
+* [Mickaël Tricot](https://about.me/mickaeltr), développeur
 * [Maxime Veber](https://github.com/Nek-), développeur
 * [Christophe Villeger](https://twitter.com/VillegerC), développeur back-end
 * [Arnaud Villéger](http://www.mamaisonsurlatoile.fr), webdesigner
