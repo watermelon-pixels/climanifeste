@@ -39,6 +39,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 
 [Cliquez-ici](https://github.com/climanifeste/climanifeste/edit/master/README.md) pour ajouter (ou enlever) votre nom à la liste des signataires (dans l'ordre alphabétique du nom de famille) ou envoyez-nous un mail à contact@climanifeste.net.
  
+* [Maxence Aici](http://aici.me), développeur 
 * [Hamza Amrouche](https://github.com/simperfit), lead développeur Symfony
 * [Nicolas Arduin](https://www.nardu.in), designer & développeur front-end
 * [Louis Augry](https://github.com/LouisAugry), développeur front-end
@@ -100,7 +101,6 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Maxime Veber](https://github.com/Nek-), développeur
 * [Christophe Villeger](https://twitter.com/VillegerC), développeur back-end
 * [Arnaud Villéger](http://www.mamaisonsurlatoile.fr), webdesigner
-* [Maxence Aici](http://aici.me), développeur
 
 ## Sources du manifeste
 
