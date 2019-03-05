@@ -39,24 +39,24 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 
 [Cliquez-ici](https://github.com/climanifeste/climanifeste/edit/master/README.md) pour ajouter (ou enlever) votre nom à la liste des signataires (dans l'ordre alphabétique du nom de famille) ou envoyez-nous un mail à contact@climanifeste.net. 
 
-* [Nicolas Arduin](https://www.nardu.in), Designer & développeur front-end
+* [Nicolas Arduin](https://www.nardu.in), designer & développeur front-end
 * [Louis Augry](https://github.com/LouisAugry), développeur front-end
-* [Maxime Auriau](https://github.com/mauriau), Développeur full stack
-* [Nicolas Bondoux](https://github.com/Nsbx), Développeur web
+* [Maxime Auriau](https://github.com/mauriau), développeur full stack
+* [Nicolas Bondoux](https://github.com/Nsbx), développeur web
 * [Julien Bouquillon](https://github.com/revolunet), développeur
 * [Luc Chaffard](http://lucchaffard.com), designer produit
 * [Fanny Cheung](http://ynote.hk/), développeuse front-end
 * [Brice Coquereau](https://brice.coquereau.fr/), CTO & développeur
-* [Nicolas Damiens](https://twitter.com/chticolas), Développeur
+* [Nicolas Damiens](https://twitter.com/chticolas), développeur
 * [Jean-Baptiste Desbas](https://twitter.com/jbdesbas), géomaticien
 * [Indy De Deken](https://twitter.com/indydedeken), ingénieur commercial
 * [Nicolas Dievart](https://github.com/NicolasDievart), développeur
-* [Olivier Dolbeau](https://github.com/odolbeau), CTO & Développeur
+* [Olivier Dolbeau](https://github.com/odolbeau), CTO & développeur
 * [Geoffrey Dorne](https://graphism.fr/), designer
 * [Jean-François Fourmond](https://github.com/jffourmond), développeur freelance
 * [Dimitri Fruit](https://twitter.com/DimitriMorgan), développeur et scrum master
 * [Benoit Galati](https://github.com/b-galati), développeur
-* [Mathieu Girard](https://twitter.com/matGiWeb), Développeur Web
+* [Mathieu Girard](https://twitter.com/matGiWeb), développeur web
 * [Ly-Jia Goldstein](https://twitter.com/Ly_Jia), développeuse
 * [Thomas Goldstein](https://github.com/thomasgoldstein), développeur
 * [Cyrille Grandval](https://twitter.com/cyrillegrandval), CEO & développeur
@@ -75,15 +75,15 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Thierry Marianne](https://thierry.marianne.io), développeur
 * [Sylvain Martin](https://github.com/smartinus44), développeur front-end
 * [Kévin Nadin](https://github.com/kevinjhappy), développeur PHP
-* [Florent Nollet](https://www.linkedin.com/in/florent-n-7584514/), Architecte technique
-* [Marie-Cécile Godwin Paccard](http://mcgodwin.com/), Designer
+* [Florent Nollet](https://www.linkedin.com/in/florent-n-7584514/), architecte technique
+* [Marie-Cécile Godwin Paccard](http://mcgodwin.com/), designer
 * [Stéphane Paillet](https://www.linkedin.com/in/stephanepaillet/), sysadmin
 * [William Pollet](https://github.com/williampollet), développeur
 * [Alan Poulain](https://github.com/alanpoulain), développeur
 * [Romuald Priol](https://twitter.com/doc_roms), développeur
 * [Yann Prou](https://github.com/toofff), développeur
 * [Vincent Reuss](http://github.com/vichenze), développeur
-* [Ludovic Riaudel](https://ludovic.riaudel.net/), Product Owner 
+* [Ludovic Riaudel](https://ludovic.riaudel.net/), product owner 
 * [Sunny Ripert](http://sunfox.org), développeur
 * [Joachim Robert](https://professeurjoachim.com), designer, intégrateur
 * [Alexandre "Pierstoval" Rock Ancelet](https://github.com/Pierstoval/), développeur et formateur
