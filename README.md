@@ -102,6 +102,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Maxime Veber](https://github.com/Nek-), développeur
 * [Christophe Villeger](https://twitter.com/VillegerC), développeur back-end
 * [Arnaud Villéger](http://www.mamaisonsurlatoile.fr), webdesigner
+* [Victor Schmidt](https://vict0rs.ch), Data Scientist, Doctorant IA
 
 ## Sources du manifeste
 
