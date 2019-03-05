@@ -93,6 +93,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Joachim Robert](https://professeurjoachim.com), designer, intégrateur
 * [Alexandre "Pierstoval" Rock Ancelet](https://github.com/Pierstoval/), développeur et formateur
 * [Anis Safine Laget](https://twitter.com/anis), développeur freelance
+* [Vincent Salahkar](https://twitter.com/pseudofvincent), développeur
 * [Martin Salles](https://github.com/sallesma), développeur
 * [Matthieu Scarset](https://matthieuscarset.com/), développeur
 * [Julien Soleilhavoup](https://twitter.com/DevInKilt), développeur
