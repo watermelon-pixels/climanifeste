@@ -90,6 +90,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Yann Prou](https://github.com/toofff), développeur
 * [Vincent Reuss](http://github.com/vichenze), développeur
 * [Ludovic Riaudel](https://ludovic.riaudel.net/), product owner 
+* [Raphael Richard](http://www.raphaelrichard.net/), formateur IA et Marketing Digital
 * [Sunny Ripert](http://sunfox.org), développeur
 * [Joachim Robert](https://professeurjoachim.com), designer, intégrateur
 * [Alexandre "Pierstoval" Rock Ancelet](https://github.com/Pierstoval/), développeur et formateur
