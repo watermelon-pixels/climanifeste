@@ -64,6 +64,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Thomas Goldstein](https://github.com/thomasgoldstein), développeur
 * [Cyrille Grandval](https://twitter.com/cyrillegrandval), CEO & développeur
 * [Kévin Grenier](https://github.com/mcsky), développeur back/front
+* [Xavier Guillemot](https://github.com/xavier-plasma), développeur 
 * [Richard Hanna](https://supertanuki.github.io/home/), développeur
 * [Matthieu Hébert](https://matthieuhebert.fr), développeur
 * [Yoann Jauffroy](https://www.linkedin.com/in/yoannjauffroy/), développeur front-end
