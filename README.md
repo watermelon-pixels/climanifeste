@@ -46,6 +46,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Maxime Auriau](https://github.com/mauriau), développeur full stack
 * [Kevin Auvinet](https://github.com/ke20), développeur
 * [Hicham Bellahcene](https://github.com/hbellahc), développeur freelance
+* [Christophe Benz](https://github.com/cbenz), développeur
 * [Nicolas Bondoux](https://github.com/Nsbx), développeur web
 * [Julien Bouquillon](https://github.com/revolunet), développeur
 * [Sébastien Camus](http://www.white-lynx.com), consultant webmarketing freelance
