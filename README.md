@@ -69,6 +69,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Xavier Guillemot](https://github.com/xavier-plasma), développeur 
 * [Richard Hanna](https://supertanuki.github.io/home/), développeur
 * [Matthieu Hébert](https://matthieuhebert.fr), développeur
+* [Matthieu Hue](https://www.linkedin.com/in/matthieu-hue/), ingénieur système
 * [Yoann Jauffroy](https://www.linkedin.com/in/yoannjauffroy/), développeur front-end
 * [Yann Kozon](https://www.yannkozon.com/), développeur web freelance
 * [Vincent "Khylias" Kraus](https://github.com/khylias/), développeur front-end et vacataire
