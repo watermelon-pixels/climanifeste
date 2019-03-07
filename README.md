@@ -54,6 +54,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Fanny Cheung](http://ynote.hk/), développeuse front-end
 * [Brice Coquereau](https://brice.coquereau.fr/), CTO & développeur
 * [Nicolas Damiens](https://twitter.com/chticolas), développeur
+* [Bruno Duyé](https://github.com/brunetton), développeur
 * [Jean-Baptiste Desbas](https://twitter.com/jbdesbas), géomaticien
 * [Indy De Deken](https://twitter.com/indydedeken), ingénieur commercial
 * [Nicolas Dievart](https://github.com/NicolasDievart), développeur
