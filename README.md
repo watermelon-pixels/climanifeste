@@ -44,6 +44,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Nicolas Arduin](https://www.nardu.in), designer & développeur front-end
 * [Louis Augry](https://github.com/LouisAugry), développeur front-end
 * [Maxime Auriau](https://github.com/mauriau), développeur full stack
+* [Kevin Auvinet](https://github.com/ke20), développeur
 * [Hicham Bellahcene](https://github.com/hbellahc), développeur freelance
 * [Nicolas Bondoux](https://github.com/Nsbx), développeur web
 * [Julien Bouquillon](https://github.com/revolunet), développeur
@@ -106,7 +107,6 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Maxime Veber](https://github.com/Nek-), développeur
 * [Christophe Villeger](https://twitter.com/VillegerC), développeur back-end
 * [Arnaud Villéger](http://www.mamaisonsurlatoile.fr), webdesigner
-* [Kevin Auvinet](https://github.com/ke20), développeur
 
 ## Sources du manifeste
 
