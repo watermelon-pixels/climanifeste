@@ -113,11 +113,11 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Victor Schmidt](https://vict0rs.ch), data scientist, doctorant IA
 * [Julien Soleilhavoup](https://twitter.com/DevInKilt), développeur
 * [Benjamin Sonntag](https://twitter.com/vincib), CEO & cofondateur de la Quadrature du Net
-* [Olivier Tille](https://keybase.io/oliviernt), développeur
 * [Mickaël Tricot](https://about.me/mickaeltr), développeur
 * [Maxime Veber](https://github.com/Nek-), développeur
 * [Christophe Villeger](https://twitter.com/VillegerC), développeur back-end
 * [Arnaud Villéger](http://www.mamaisonsurlatoile.fr), webdesigner
+* [Thomas Geisen](https://www.thomasgeisen.fr), développeur web freelance
 
 ## Sources du manifeste
 
