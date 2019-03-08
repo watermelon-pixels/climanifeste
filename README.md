@@ -55,6 +55,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Sébastien Camus](http://www.white-lynx.com), consultant webmarketing freelance
 * [Luc Chaffard](http://lucchaffard.com), designer produit
 * [Fanny Cheung](http://ynote.hk/), développeuse front-end
+* [Romain Clavel](https://clavel.io), développeur
 * [Romain Clement](https://romain-clement.net), CTO & développeur
 * [Brice Coquereau](https://brice.coquereau.fr/), CTO & développeur
 * [Nicolas Damiens](https://twitter.com/chticolas), développeur
@@ -91,6 +92,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Mathieu Marchois](https://github.com/mmarchois), développeur
 * [Thierry Marianne](https://thierry.marianne.io), développeur
 * [Sylvain Martin](https://github.com/smartinus44), développeur front-end
+* [Thibault Miranda de Oliveira](https://github.com/agaryen), développeur
 * [Kévin Nadin](https://github.com/kevinjhappy), développeur PHP
 * [Florent Nollet](https://www.linkedin.com/in/florent-n-7584514/), architecte technique
 * [Laurent Olivares](https://www.olivares.fr), consultant internet
@@ -101,6 +103,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Alan Poulain](https://github.com/alanpoulain), développeur
 * [Romuald Priol](https://twitter.com/doc_roms), développeur
 * [Yann Prou](https://github.com/toofff), développeur
+* [Benjamin Raimondi](https://github.com/benDeMtp), Scrum Master / développeur
 * [Alexis Raphaeloff](https://raphaeloff.net/), développeur
 * [Eric Redon](https://coox.org/), ingénieur logiciel
 * [Vincent Reuss](http://github.com/vichenze), développeur
