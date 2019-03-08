@@ -55,6 +55,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Sébastien Camus](http://www.white-lynx.com), consultant webmarketing freelance
 * [Luc Chaffard](http://lucchaffard.com), designer produit
 * [Fanny Cheung](http://ynote.hk/), développeuse front-end
+* [Romain Clavel](https://clavel.io), développeur
 * [Brice Coquereau](https://brice.coquereau.fr/), CTO & développeur
 * [Nicolas Damiens](https://twitter.com/chticolas), développeur
 * [Jean-Baptiste Desbas](https://twitter.com/jbdesbas), géomaticien
@@ -120,7 +121,6 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Maxime Veber](https://github.com/Nek-), développeur
 * [Christophe Villeger](https://twitter.com/VillegerC), développeur back-end
 * [Arnaud Villéger](http://www.mamaisonsurlatoile.fr), webdesigner
-* [Romain Clavel](https://clavel.io), développeur
 
 ## Sources du manifeste
 
