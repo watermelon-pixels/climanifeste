@@ -55,6 +55,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Sébastien Camus](http://www.white-lynx.com), consultant webmarketing freelance
 * [Luc Chaffard](http://lucchaffard.com), designer produit
 * [Fanny Cheung](http://ynote.hk/), développeuse front-end
+* [Romain Clement](https://romain-clement.net), CTO & développeur
 * [Brice Coquereau](https://brice.coquereau.fr/), CTO & développeur
 * [Nicolas Damiens](https://twitter.com/chticolas), développeur
 * [Jean-Baptiste Desbas](https://twitter.com/jbdesbas), géomaticien
