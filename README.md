@@ -85,6 +85,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Christophe Le Besnerais](https://github.com/lebesnec), développeur
 * [Raphaël Lemaire](http://raphael-lemaire.com/), consultant en logiciel freelance
 * [Luc Leray](https://github.com/lucleray), développeur
+* [Christophe Logiste](https://www.logiste.fr/), webmaster
 * [Marc Loyat](https://github.com/mloyat/), développeur
 * [Laurent Martelli](https://github.com/lmartelli), développeur
 * [Stéphanie Matharet](https://matharet.com/), directrice artistique, graphiste
