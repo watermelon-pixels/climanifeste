@@ -80,6 +80,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Raphaël Lemaire](http://raphael-lemaire.com/), consultant en logiciel freelance
 * [Luc Leray](https://github.com/lucleray), développeur
 * [Marc Loyat](https://github.com/mloyat/), développeur
+* [Laurent Martelli](https://github.com/lmartelli), développeur
 * [Stéphanie Matharet](https://matharet.com/), directrice artistique, graphiste
 * [Hélène Marchois](https://github.com/hmarchois), agiliste
 * [Mathieu Marchois](https://github.com/mmarchois), développeur
@@ -113,7 +114,6 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Maxime Veber](https://github.com/Nek-), développeur
 * [Christophe Villeger](https://twitter.com/VillegerC), développeur back-end
 * [Arnaud Villéger](http://www.mamaisonsurlatoile.fr), webdesigner
-* [Laurent Martelli]](https://github.com/lmartelli), développeur
 
 ## Sources du manifeste
 
