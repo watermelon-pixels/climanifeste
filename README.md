@@ -96,6 +96,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Alan Poulain](https://github.com/alanpoulain), développeur
 * [Romuald Priol](https://twitter.com/doc_roms), développeur
 * [Yann Prou](https://github.com/toofff), développeur
+* [Alexis Raphaeloff](https://raphaeloff.net/), développeur
 * [Eric Redon](https://coox.org/), ingénieur logiciel
 * [Vincent Reuss](http://github.com/vichenze), développeur
 * [Ludovic Riaudel](https://ludovic.riaudel.net/), product owner 
