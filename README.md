@@ -90,6 +90,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Mathieu Marchois](https://github.com/mmarchois), développeur
 * [Thierry Marianne](https://thierry.marianne.io), développeur
 * [Sylvain Martin](https://github.com/smartinus44), développeur front-end
+* [Thibault Miranda de Oliveira](https://github.com/agaryen), développeur
 * [Kévin Nadin](https://github.com/kevinjhappy), développeur PHP
 * [Florent Nollet](https://www.linkedin.com/in/florent-n-7584514/), architecte technique
 * [Laurent Olivares](https://www.olivares.fr), consultant internet
