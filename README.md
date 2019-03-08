@@ -47,6 +47,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Kevin Auvinet](https://github.com/ke20), développeur
 * [Hicham Bellahcene](https://github.com/hbellahc), développeur freelance
 * [Christophe Benz](https://github.com/cbenz), développeur
+* [Jibé Bohuon](https://jibe-b.gitlab.io), développeur et libérateur de données
 * [Nicolas Bondoux](https://github.com/Nsbx), développeur web
 * [Julien Bouquillon](https://github.com/revolunet), développeur
 * [Louis-Olivier Brassard](https://loupbrun.ca), designer, développeur et étudiant
@@ -114,7 +115,6 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Maxime Veber](https://github.com/Nek-), développeur
 * [Christophe Villeger](https://twitter.com/VillegerC), développeur back-end
 * [Arnaud Villéger](http://www.mamaisonsurlatoile.fr), webdesigner
-* [Jibé Bohuon](https://jibe-b.gitlab.io), développeur et libérateur de données
 
 ## Sources du manifeste
 
