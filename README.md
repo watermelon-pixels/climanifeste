@@ -66,6 +66,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Jean-François Fourmond](https://github.com/jffourmond), développeur freelance
 * [Dimitri Fruit](https://twitter.com/DimitriMorgan), développeur et scrum master
 * [Benoit Galati](https://github.com/b-galati), développeur
+* [Thomas Geisen](https://www.thomasgeisen.fr), développeur web freelance
 * [Mathieu Girard](https://twitter.com/matGiWeb), développeur web
 * [Ly-Jia Goldstein](https://twitter.com/Ly_Jia), développeuse
 * [Thomas Goldstein](https://github.com/thomasgoldstein), développeur
@@ -118,7 +119,6 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Maxime Veber](https://github.com/Nek-), développeur
 * [Christophe Villeger](https://twitter.com/VillegerC), développeur back-end
 * [Arnaud Villéger](http://www.mamaisonsurlatoile.fr), webdesigner
-* [Thomas Geisen](https://www.thomasgeisen.fr), développeur web freelance
 
 ## Sources du manifeste
 
