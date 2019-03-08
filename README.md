@@ -101,6 +101,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Alan Poulain](https://github.com/alanpoulain), développeur
 * [Romuald Priol](https://twitter.com/doc_roms), développeur
 * [Yann Prou](https://github.com/toofff), développeur
+* [Benjamin Raimondi](https://github.com/benDeMtp), Scrum Master / développeur
 * [Alexis Raphaeloff](https://raphaeloff.net/), développeur
 * [Eric Redon](https://coox.org/), ingénieur logiciel
 * [Vincent Reuss](http://github.com/vichenze), développeur
