@@ -96,6 +96,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Marie-Cécile Godwin Paccard](http://mcgodwin.com/), designer
 * [Stéphane Paillet](https://www.linkedin.com/in/stephanepaillet/), sysadmin
 * [William Pollet](https://github.com/williampollet), développeur
+* [Romain Pellerin](https://romainpellerin.eu), développeur
 * [Alan Poulain](https://github.com/alanpoulain), développeur
 * [Romuald Priol](https://twitter.com/doc_roms), développeur
 * [Yann Prou](https://github.com/toofff), développeur
@@ -119,7 +120,6 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Maxime Veber](https://github.com/Nek-), développeur
 * [Christophe Villeger](https://twitter.com/VillegerC), développeur back-end
 * [Arnaud Villéger](http://www.mamaisonsurlatoile.fr), webdesigner
-* [Romain Pellerin](https://romainpellerin.eu), développeur
 
 ## Sources du manifeste
 
