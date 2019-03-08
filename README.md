@@ -76,6 +76,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Matthieu Hébert](https://matthieuhebert.fr), développeur
 * [Matthieu Hue](https://www.linkedin.com/in/matthieu-hue/), ingénieur système
 * [Yoann Jauffroy](https://www.linkedin.com/in/yoannjauffroy/), développeur front-end
+* [Benjamin Jonard](https://github.com/benjaminjonard), développeur web
 * [Yann Kozon](https://www.yannkozon.com/), développeur web freelance
 * [Vincent "Khylias" Kraus](https://github.com/khylias/), développeur front-end et vacataire
 * [Christophe Le Besnerais](https://github.com/lebesnec), développeur
