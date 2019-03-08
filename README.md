@@ -1,12 +1,12 @@
 ![Climanifeste logo](/images/logo-transparent.png)
 
-# Manifeste écologique des professionnels de l'informatique
+# Manifeste écologique des professionnel.le.s de l'informatique
 
 En 2018, les émissions de gaz à effet de serre ont augmenté de 2.7% dans le monde<sup>[1](#figaro-2.7)</sup>. La France dépasse ses objectifs de réduction des émissions de 6.7%<sup>[2](#lci-6.7)</sup>. A ce rythme, nous finirons très loin de l'objectif de la COP21<sup>[3](#bfmtv-onu)</sup>. Mais partout dans le monde, les conséquences du réchauffement climatique se manifestent déjà<sup>[4](#franceinfo-portorico),</sup> <sup>[5](#capital-cout)</sup>. La France est le pays d'Europe le plus touché<sup>[6](#figaro-catastrophes)</sup> et à l'avenir, tou·te·s les français·e·s seront impacté·e·s : il y a quelques mois, le climatologue français Jean Jouzel alertait l'Assemblée nationale du risque de connaître des records de température de 55°C en France en 2050<sup>[7](#youtube-jouzel),</sup> <sup>[8](#franceinfo-jouzel)</sup>. Avec ces températures, la canicule de 2003 (15 000 morts en France<sup>[9](#liberation-canicule)</sup>) et ses records de 44°C feront figure de doux souvenir. 
 
 Face à l'urgence<sup>[10](#latribune-giec)</sup>, peut-on laisser les responsables du réchauffement agir sans conséquences ? La jeunesse a décidé que non. Le Manifeste étudiant pour un réveil écologique<sup>[11](#manifeste-etudiants)</sup> déclare que ses 26 000 signataires «ne mettront pas leur énergie au service d'employeurs dont la stratégie et la vision du monde sont anachroniques»<sup>[12](#lesechos-manifeste)</sup>.
 
-En tant que professionnels de l'informatique, nous avons la chance de pouvoir choisir pour qui nous souhaitons travailler. Inspirons-nous donc des étudiants pour **signifier aux entreprises responsables du réchauffement climatique <sup>[13](#forbes)</sup> et à celles qui les financent<sup>[14](#oxfam),</sup> <sup>[15](#amisdelaterre-bnp),</sup> <sup>[16](#amisdelaterre-ca),</sup> <sup>[17](#amisdelaterre-socgen),</sup> <sup>[18](#amisdelaterre-pipeline)</sup> que nous refuserons dorénavant de travailler pour elles**.
+En tant que professionnel.le.s de l'informatique, nous avons la chance de pouvoir choisir pour qui nous souhaitons travailler. Inspirons-nous donc des étudiants pour **signifier aux entreprises responsables du réchauffement climatique <sup>[13](#forbes)</sup> et à celles qui les financent<sup>[14](#oxfam),</sup> <sup>[15](#amisdelaterre-bnp),</sup> <sup>[16](#amisdelaterre-ca),</sup> <sup>[17](#amisdelaterre-socgen),</sup> <sup>[18](#amisdelaterre-pipeline)</sup> que nous refuserons dorénavant de travailler pour elles**.
 
 La plupart des entreprises peinent à recruter assez d'informaticiens<sup>[19](#lemonde-recrutement)</sup> et la situation ne devrait pas changer dans les prochaines années<sup>[20](#lefigaro-recrutement)</sup>. Profitons-en pour refuser les offres d'emploi et de missions en contradiction avec les impératifs climatiques. Nous sommes plusieurs centaines de milliers à travailler dans le numérique en France<sup>[21](#syntec)</sup>. Alors ensemble, mobilisons-nous ! 
 
@@ -31,7 +31,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 
 ## Pour aller plus loin
 
-* [Pour un manifeste écologique des professionnels de l'informatique, interview de Jean-François Fourmond](https://techologie.net/episodes/6-manifeste-ecologique-des-professionnels-de-l-informatique.html)
+* [Pour un manifeste écologique des professionnel.le.s de l'informatique, interview de Jean-François Fourmond](https://techologie.net/episodes/6-manifeste-ecologique-des-professionnels-de-l-informatique.html)
 * [Pour une sobriété numérique](https://theshiftproject.org/article/pour-une-sobriete-numerique-rapport-shift/), le rapport sur l’impact environnemental du numérique, publiée par l'association The Shift Project.
 * [Quel numérique voulons-nous ?](https://reset.fing.org/), une initiative collective menée par l'association Fing.
 
