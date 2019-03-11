@@ -6,7 +6,7 @@ En 2018, les émissions de gaz à effet de serre ont augmenté de 2.7% dans le m
 
 Face à l'urgence<sup>[10](#latribune-giec)</sup>, peut-on laisser les responsables du réchauffement agir sans conséquences ? La jeunesse a décidé que non. Le Manifeste étudiant pour un réveil écologique<sup>[11](#manifeste-etudiants)</sup> déclare que ses 26 000 signataires «ne mettront pas leur énergie au service d'employeurs dont la stratégie et la vision du monde sont anachroniques»<sup>[12](#lesechos-manifeste)</sup>.
 
-En tant que professionnel·le·s de l'informatique, nous avons la chance de pouvoir choisir pour qui nous souhaitons travailler. Inspirons-nous donc des étudiants pour **signifier aux entreprises responsables du réchauffement climatique <sup>[13](#forbes)</sup> et à celles qui les financent<sup>[14](#oxfam),</sup> <sup>[15](#amisdelaterre-bnp),</sup> <sup>[16](#amisdelaterre-ca),</sup> <sup>[17](#amisdelaterre-socgen),</sup> <sup>[18](#amisdelaterre-pipeline)</sup> que nous refuserons dorénavant de travailler pour elles**.
+En tant que professionnel·le·s de l'informatique, nous avons la chance de pouvoir choisir pour qui nous souhaitons travailler. Inspirons-nous donc des étudiant·e·s pour **signifier aux entreprises responsables du réchauffement climatique <sup>[13](#forbes)</sup> et à celles qui les financent<sup>[14](#oxfam),</sup> <sup>[15](#amisdelaterre-bnp),</sup> <sup>[16](#amisdelaterre-ca),</sup> <sup>[17](#amisdelaterre-socgen),</sup> <sup>[18](#amisdelaterre-pipeline)</sup> que nous refuserons dorénavant de travailler pour elles**.
 
 La plupart des entreprises peinent à recruter assez d'informaticien·ne·s<sup>[19](#lemonde-recrutement)</sup> et la situation ne devrait pas changer dans les prochaines années<sup>[20](#lefigaro-recrutement)</sup>. Profitons-en pour refuser les offres d'emploi et de missions en contradiction avec les impératifs climatiques. Nous sommes plusieurs centaines de milliers à travailler dans le numérique en France<sup>[21](#syntec)</sup>. Alors ensemble, mobilisons-nous ! 
 
@@ -27,7 +27,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 ## Que reste t-il à faire ?
 
 * Arriver à un minimum de 100 signatures (en cours...).
-* Communiquer auprès des médias (on recherche un(e) chargé(e) de relation presse).
+* Communiquer auprès des médias (on recherche un·e chargé·e de relations presse).
 
 ## Pour aller plus loin
 
