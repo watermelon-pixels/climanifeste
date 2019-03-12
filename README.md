@@ -125,6 +125,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Julien Soleilhavoup](https://twitter.com/DevInKilt), développeur
 * [Benjamin Sonntag](https://twitter.com/vincib), CEO & cofondateur de la Quadrature du Net
 * [Thomas Stocker](https://github.com/kermitsxb), développeur back-end
+* [Martin Souchal](http://www.apc.univ-paris7.fr/~souchal/), sysadmin
 * [Jérôme Tanghe](https://deuchnord.fr), développeur
 * [Mickaël Tricot](https://about.me/mickaeltr), développeur
 * [Maxime Veber](https://github.com/Nek-), développeur
