@@ -49,6 +49,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Hicham Bellahcene](https://github.com/hbellahc), développeur freelance
 * [Christophe Benz](https://github.com/cbenz), développeur
 * [François Best](https://francoisbest.com), développeur freelance
+* [Romain Blachier](https://www.linkedin.com/in/romainblachier/), Chef de Projet Innovation
 * [Jibé Bohuon](https://jibe-b.gitlab.io), développeur et libérateur de données
 * [Nicolas Bondoux](https://github.com/Nsbx), développeur web
 * [Julien Bouquillon](https://github.com/revolunet), développeur
