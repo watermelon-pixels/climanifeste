@@ -85,6 +85,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Benjamin Jonard](https://github.com/benjaminjonard), développeur web
 * [Yann Kozon](https://www.yannkozon.com/), développeur web freelance
 * [Vincent "Khylias" Kraus](https://github.com/khylias/), développeur front-end et vacataire
+* [Patrick Davidson Lambret](https://github.com/determind/), technical product manager (po/pm)
 * [Julien Lambot](https://jumbot.be), Administrateur systèmes
 * [Christophe Le Besnerais](https://github.com/lebesnec), développeur
 * [Raphaël Lemaire](http://raphael-lemaire.com/), consultant en logiciel freelance
