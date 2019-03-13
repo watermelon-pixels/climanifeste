@@ -128,6 +128,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Martin Souchal](http://www.apc.univ-paris7.fr/~souchal/), sysadmin
 * [Thomas Stocker](https://github.com/kermitsxb), développeur back-end
 * [Jérôme Tanghe](https://deuchnord.fr), développeur
+* [Adrien Taudière](https://adrientaudiere.com), consultant analyses de données et infographie
 * [Mickaël Tricot](https://about.me/mickaeltr), développeur
 * [Maxime Veber](https://github.com/Nek-), développeur
 * [Christophe Villeger](https://twitter.com/VillegerC), développeur back-end
