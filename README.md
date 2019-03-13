@@ -109,6 +109,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Alan Poulain](https://github.com/alanpoulain), développeur
 * [Romuald Priol](https://twitter.com/doc_roms), développeur
 * [Yann Prou](https://github.com/toofff), développeur
+* [Aimée Quinaou](https://github.com/quinao), développeuse
 * [Benjamin Raimondi](https://github.com/benDeMtp), Scrum Master / développeur
 * [Alexis Raphaeloff](https://raphaeloff.net/), développeur
 * [Eric Redon](https://coox.org/), ingénieur logiciel
@@ -134,7 +135,6 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Maxime Veber](https://github.com/Nek-), développeur
 * [Christophe Villeger](https://twitter.com/VillegerC), développeur back-end
 * [Arnaud Villéger](http://www.mamaisonsurlatoile.fr), webdesigner
-* [Aimée Quinaou](https://github.com/quinao), développeuse
 
 ## Sources du manifeste
 
