@@ -42,6 +42,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Maxence Aici](http://aici.me), développeur 
 * [Hamza Amrouche](https://github.com/simperfit), lead développeur Symfony
 * [Nicolas Arduin](https://www.nardu.in), designer & développeur front-end
+* [Rachel Arnould](https://twitter.com/rachel_arn), Product Owner Freelance
 * [Faten Asselin-Mezhoud](https://twitter.com/mmfaten), QA Analyst 
 * [Louis Augry](https://github.com/LouisAugry), développeur front-end
 * [Maxime Auriau](https://github.com/mauriau), développeur full stack
