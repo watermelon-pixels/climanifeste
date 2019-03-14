@@ -135,6 +135,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Matthieu Scarset](https://matthieuscarset.com/), développeur
 * [Victor Schmidt](https://vict0rs.ch), data scientist, doctorant IA
 * [Julien Soleilhavoup](https://twitter.com/DevInKilt), développeur
+* [Sébastien Solère](https://twitter.com/sebsolere), facilitateur agile
 * [Benjamin Sonntag](https://twitter.com/vincib), CEO & cofondateur de la Quadrature du Net
 * [Martin Souchal](http://www.apc.univ-paris7.fr/~souchal/), sysadmin
 * [Thomas Stocker](https://github.com/kermitsxb), développeur back-end
@@ -145,7 +146,6 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Maxime Veber](https://github.com/Nek-), développeur
 * [Christophe Villeger](https://twitter.com/VillegerC), développeur back-end
 * [Arnaud Villéger](http://www.mamaisonsurlatoile.fr), webdesigner
-* [Sébastien Solère](https://twitter.com/sebsolere), facilitateur agile
 
 ## Sources du manifeste
 
