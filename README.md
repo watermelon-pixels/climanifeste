@@ -78,6 +78,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Bruno Duyé](https://github.com/brunetton), développeur
 * [Jean-François Fourmond](https://github.com/jffourmond), développeur freelance
 * [Dimitri Fruit](https://twitter.com/DimitriMorgan), développeur et scrum master
+* [Vincent Fuger](https://twitter.com/Rhedynen_), développeur
 * [Benoit Galati](https://github.com/b-galati), développeur
 * [Marine Gandy](https://twitter.com/mupsigraphy), développeuse PHP
 * [Thomas Geisen](https://www.thomasgeisen.fr), développeur web freelance
