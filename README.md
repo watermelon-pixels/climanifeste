@@ -143,7 +143,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Olivier Tille](https://keybase.io/oliviernt), développeur
 * [Mickaël Tricot](https://about.me/mickaeltr), développeur
 * [Maxime Veber](https://github.com/Nek-), développeur
-* [Vernet Loïc](https://www.strangebuzz.com), lead développeur Symfony freelance
+* [Loïc Vernet](https://www.strangebuzz.com), lead développeur Symfony freelance
 * [Christophe Villeger](https://twitter.com/VillegerC), développeur back-end
 * [Arnaud Villéger](http://www.mamaisonsurlatoile.fr), webdesigner
 
