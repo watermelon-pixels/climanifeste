@@ -68,6 +68,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Nicolas Dievart](https://github.com/NicolasDievart), développeur
 * [Olivier Dolbeau](https://github.com/odolbeau), CTO & développeur
 * [Geoffrey Dorne](https://graphism.fr/), designer
+* [Lisa Durand](http://www.superdudu.net/), développeuse / graphiste
 * [Bruno Duyé](https://github.com/brunetton), développeur
 * [Jean-François Fourmond](https://github.com/jffourmond), développeur freelance
 * [Dimitri Fruit](https://twitter.com/DimitriMorgan), développeur et scrum master
