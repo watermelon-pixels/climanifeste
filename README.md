@@ -110,6 +110,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Mathieu Marchois](https://github.com/mmarchois), développeur
 * [Thierry Marianne](https://thierry.marianne.io), développeur
 * [Sylvain Martin](https://github.com/smartinus44), développeur front-end
+* [Claire Mercier](https://github.com/claire2327), développeuse
 * [Thibault Miranda de Oliveira](https://github.com/agaryen), développeur
 * [Victor Mours](https://github.com/victormours), développeur
 * [Kévin Nadin](https://github.com/kevinjhappy), développeur PHP
