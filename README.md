@@ -67,6 +67,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Brice Coquereau](https://brice.coquereau.fr/), CTO & développeur
 * [Nicolas Damiens](https://twitter.com/chticolas), développeur
 * [Jean-Baptiste Desbas](https://twitter.com/jbdesbas), géomaticien
+* [Florian De Sa](https://www.linkedin.com/in/floriandesa/), Product Manager
 * [Indy De Deken](https://twitter.com/indydedeken), ingénieur commercial
 * [Laurent Devernay](https://ldevernay.github.io/), formateur
 * [Nicolas Dievart](https://github.com/NicolasDievart), développeur
