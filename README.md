@@ -109,6 +109,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Thibault Miranda de Oliveira](https://github.com/agaryen), développeur
 * [Victor Mours](https://github.com/victormours), développeur
 * [Kévin Nadin](https://github.com/kevinjhappy), développeur PHP
+* [Julien Negros](https://twitter.com/djiock), administrateur systèmes
 * [Florent Nollet](https://www.linkedin.com/in/florent-n-7584514/), architecte technique
 * [Laurent Olivares](https://www.olivares.fr), consultant internet
 * [Mathieu Ouvrié](https://twitter.com/m_ouvrie), développeur
