@@ -155,7 +155,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Loïc Vernet](https://www.strangebuzz.com), lead développeur Symfony freelance
 * [Christophe Villeger](https://twitter.com/VillegerC), développeur back-end
 * [Arnaud Villéger](http://www.mamaisonsurlatoile.fr), webdesigner
-* [Quentin Vignier] (https://github.com/Ghriim), Lead développeur PHP Symfony
+* [Quentin Vignier](https://github.com/Ghriim), Lead développeur PHP Symfony
 
 ## Sources du manifeste
 
