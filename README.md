@@ -57,6 +57,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Louis-Olivier Brassard](https://loupbrun.ca), designer, développeur et étudiant
 * [Sébastien Camus](http://www.white-lynx.com), consultant webmarketing freelance
 * [Luc Chaffard](http://lucchaffard.com), designer produit
+* [Clément Chapalain](https://github.com/clementchapalain), product manager
 * [Fanny Cheung](http://ynote.hk/), développeuse front-end
 * [Romain Clavel](https://clavel.io), développeur
 * [Romain Clement](https://romain-clement.net), CTO & développeur
