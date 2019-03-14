@@ -48,6 +48,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Maxime Auriau](https://github.com/mauriau), développeur full stack
 * [Kevin Auvinet](https://github.com/ke20), développeur
 * [Hicham Bellahcene](https://github.com/hbellahc), développeur freelance
+* [Guillaume Béranger](https://www.linkedin.com/in/guillaumeberanger/), développeur
 * [Christophe Benz](https://github.com/cbenz), développeur
 * [François Best](https://francoisbest.com), développeur freelance
 * [Romain Blachier](https://www.linkedin.com/in/romainblachier/), Chef de Projet Innovation
@@ -142,7 +143,6 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Maxime Veber](https://github.com/Nek-), développeur
 * [Christophe Villeger](https://twitter.com/VillegerC), développeur back-end
 * [Arnaud Villéger](http://www.mamaisonsurlatoile.fr), webdesigner
-* [Guillaume Béranger](https://www.linkedin.com/in/guillaumeberanger/), développeur
 
 ## Sources du manifeste
 
