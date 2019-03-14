@@ -98,6 +98,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Raphaël Lemaire](http://raphael-lemaire.com/), consultant en logiciel freelance
 * [Luc Leray](https://github.com/lucleray), développeur
 * [Christophe Logiste](https://www.logiste.fr/), webmaster
+* [Simon Louvet](https://www.doyoubuzz.com/simon-louvet_0), architecte logiciel
 * [Marc Loyat](https://github.com/mloyat/), développeur
 * [Laurent Martelli](https://github.com/lmartelli), développeur
 * [Stéphanie Matharet](https://matharet.com/), directrice artistique, graphiste
