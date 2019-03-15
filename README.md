@@ -150,6 +150,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Thomas Stocker](https://github.com/kermitsxb), développeur back-end
 * [Jérôme Tanghe](https://deuchnord.fr), développeur
 * [Adrien Taudière](https://adrientaudiere.com), consultant analyses de données et infographie
+* [Bruno Thomas](https://github.com/bamthomas), développeur
 * [Olivier Tille](https://keybase.io/oliviernt), développeur
 * [Mickaël Tricot](https://about.me/mickaeltr), développeur
 * [Maxime Veber](https://github.com/Nek-), développeur
@@ -157,7 +158,6 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Quentin Vignier](https://github.com/Ghriim), Lead développeur PHP Symfony
 * [Christophe Villeger](https://twitter.com/VillegerC), développeur back-end
 * [Arnaud Villéger](http://www.mamaisonsurlatoile.fr), webdesigner
-* [Bruno Thomas](https://github.com/bamthomas), développeur
 
 ## Sources du manifeste
 
