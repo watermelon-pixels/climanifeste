@@ -79,7 +79,6 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Geoffrey Dorne](https://graphism.fr/), designer
 * [Lisa Durand](http://www.superdudu.net/), développeuse / graphiste
 * [Yannick Duthé](https://gitlab.com/fluidlog), développeur
-* [Jean-Baptiste Le Dévéhat](https://twitter.com/jbledevehat), designer de services
 * [Bruno Duyé](https://github.com/brunetton), développeur
 * [Benoît Faurie](https://twitter.com/Everyways), développeur et scrum master
 * [Jean-François Fourmond](https://github.com/jffourmond), développeur freelance
@@ -107,6 +106,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Patrick Davidson Lambret](https://github.com/determind/), technical product manager (po/pm)
 * [Julien Lambot](https://jumbot.be), Administrateur systèmes
 * [Christophe Le Besnerais](https://github.com/lebesnec), développeur
+* [Jean-Baptiste Le Dévéhat](https://twitter.com/jbledevehat), designer de services
 * [Raphaël Lemaire](http://raphael-lemaire.com/), consultant en logiciel freelance
 * [Luc Leray](https://github.com/lucleray), développeur
 * [Christophe Logiste](https://www.logiste.fr/), webmaster
