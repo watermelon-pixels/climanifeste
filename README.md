@@ -157,6 +157,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Quentin Vignier](https://github.com/Ghriim), Lead développeur PHP Symfony
 * [Christophe Villeger](https://twitter.com/VillegerC), développeur back-end
 * [Arnaud Villéger](http://www.mamaisonsurlatoile.fr), webdesigner
+* [Roxanne Asnar](https://www.linkedin.com/in/roxanne-asnar/), développeuse web
 
 ## Sources du manifeste
 
