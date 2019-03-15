@@ -76,6 +76,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Geoffrey Dorne](https://graphism.fr/), designer
 * [Lisa Durand](http://www.superdudu.net/), développeuse / graphiste
 * [Yannick Duthé](https://gitlab.com/fluidlog), développeur
+* [Jean-Baptiste Le Dévéhat](https://twitter.com/jbledevehat), designer de services
 * [Bruno Duyé](https://github.com/brunetton), développeur
 * [Jean-François Fourmond](https://github.com/jffourmond), développeur freelance
 * [Dimitri Fruit](https://twitter.com/DimitriMorgan), développeur et scrum master
