@@ -137,6 +137,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Sunny Ripert](http://sunfox.org), développeur
 * [Joachim Robert](https://professeurjoachim.com), designer, intégrateur
 * [Alexandre "Pierstoval" Rock Ancelet](https://github.com/Pierstoval/), développeur et formateur
+* [Alexandre Rousseau](http://rousseau-alexandre.fr/), développeur
 * [Anis Safine Laget](https://twitter.com/anis), développeur freelance
 * [Thibaut Sailly](https://tsailly.net), designer
 * [Vincent Salahkar](https://twitter.com/pseudofvincent), développeur
