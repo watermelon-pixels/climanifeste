@@ -111,6 +111,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Hélène Marchois](https://github.com/hmarchois), agiliste
 * [Mathieu Marchois](https://github.com/mmarchois), développeur
 * [Thierry Marianne](https://thierry.marianne.io), développeur
+* [Pierre Martin](https://twitter.com/pierremartin), développeur
 * [Sylvain Martin](https://github.com/smartinus44), développeur front-end
 * [Claire Mercier](https://github.com/claire2327), développeuse
 * [Thibault Miranda de Oliveira](https://github.com/agaryen), développeur
