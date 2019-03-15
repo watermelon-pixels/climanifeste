@@ -124,6 +124,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Kévin Nadin](https://github.com/kevinjhappy), développeur PHP
 * [Julien Negros](https://twitter.com/djiock), administrateur systèmes
 * [Florent Nollet](https://www.linkedin.com/in/florent-n-7584514/), architecte technique
+* [Raphaël Odienne](https://www.linkedin.com/in/rapha%C3%ABl-o-439192147/), développeur
 * [Laurent Olivares](https://www.olivares.fr), consultant internet
 * [Mathieu Ouvrié](https://twitter.com/m_ouvrie), développeur
 * [Marie-Cécile Godwin Paccard](http://mcgodwin.com/), designer
@@ -164,7 +165,6 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Quentin Vignier](https://github.com/Ghriim), Lead développeur PHP Symfony
 * [Christophe Villeger](https://twitter.com/VillegerC), développeur back-end
 * [Arnaud Villéger](http://www.mamaisonsurlatoile.fr), webdesigner
-* [Raphaël Odienne](https://www.linkedin.com/in/rapha%C3%ABl-o-439192147/), développeur
 
 ## Sources du manifeste
 
