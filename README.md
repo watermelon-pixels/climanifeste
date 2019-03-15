@@ -140,6 +140,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Romuald Priol](https://twitter.com/doc_roms), développeur
 * [Yann Prou](https://github.com/toofff), développeur
 * [Aimée Quinaou](https://github.com/quinao), développeuse
+* [Stéphane Raimbault](https://github.com/stephane), développeur
 * [Benjamin Raimondi](https://github.com/benDeMtp), Scrum Master / développeur
 * [Alexis Raphaeloff](https://raphaeloff.net/), développeur
 * [Eric Redon](https://coox.org/), ingénieur logiciel
