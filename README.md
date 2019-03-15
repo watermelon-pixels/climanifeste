@@ -45,6 +45,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Hamza Amrouche](https://github.com/simperfit), lead développeur Symfony
 * [Nicolas Arduin](https://www.nardu.in), designer & développeur front-end
 * [Rachel Arnould](https://twitter.com/rachel_arn), Product Owner Freelance
+* [Roxanne Asnar](https://www.linkedin.com/in/roxanne-asnar/), développeuse web
 * [Faten Asselin-Mezhoud](https://twitter.com/mmfaten), QA Analyst 
 * [Louis Augry](https://github.com/LouisAugry), développeur front-end
 * [Maxime Auriau](https://github.com/mauriau), développeur full stack
@@ -60,6 +61,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Louis-Olivier Brassard](https://loupbrun.ca), designer, développeur et étudiant
 * [Sébastien Camus](http://www.white-lynx.com), consultant webmarketing freelance
 * [Luc Chaffard](http://lucchaffard.com), designer produit
+* [Vincent Chalamon](https://github.com/vincentchalamon), Lead developer
 * [Clément Chapalain](https://github.com/clementchapalain), product manager
 * [Fanny Cheung](http://ynote.hk/), développeuse front-end
 * [Romain Clavel](https://clavel.io), développeur
@@ -157,7 +159,6 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Quentin Vignier](https://github.com/Ghriim), Lead développeur PHP Symfony
 * [Christophe Villeger](https://twitter.com/VillegerC), développeur back-end
 * [Arnaud Villéger](http://www.mamaisonsurlatoile.fr), webdesigner
-* [Roxanne Asnar](https://www.linkedin.com/in/roxanne-asnar/), développeuse web
 
 ## Sources du manifeste
 
