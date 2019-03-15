@@ -138,6 +138,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Mathieu Ouvrié](https://twitter.com/m_ouvrie), développeur
 * [Marie-Cécile Godwin Paccard](http://mcgodwin.com/), designer
 * [Stéphane Paillet](https://www.linkedin.com/in/stephanepaillet/), sysadmin
+* [Louis Pinot de Villechenon](https://www.linkedin.com/in/louis-pinot-de-villechenon-914a525b/), product manager
 * [William Pollet](https://github.com/williampollet), développeur
 * [Romain Pellerin](https://romainpellerin.eu), développeur
 * [Alan Poulain](https://github.com/alanpoulain), développeur
