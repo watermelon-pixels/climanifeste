@@ -160,8 +160,8 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Jérôme Tanghe](https://deuchnord.fr), développeur
 * [Adrien Taudière](https://adrientaudiere.com), consultant analyses de données et infographie
 * [Bruno Thomas](https://github.com/bamthomas), développeur
-* [Pierre Tondereau](https://github.com/ptondereau), développeur fullstack
 * [Olivier Tille](https://keybase.io/oliviernt), développeur
+* [Pierre Tondereau](https://github.com/ptondereau), développeur fullstack
 * [Mickaël Tricot](https://about.me/mickaeltr), développeur
 * [Maxime Veber](https://github.com/Nek-), développeur
 * [Loïc Vernet](https://www.strangebuzz.com), lead développeur Symfony freelance
