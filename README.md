@@ -66,6 +66,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Luc Chaffard](http://lucchaffard.com), designer produit
 * [Vincent Chalamon](https://github.com/vincentchalamon), Lead developer
 * [Clément Chapalain](https://github.com/clementchapalain), product manager
+* [Erik Charlesson](mailto:erik.charlesson@mailoo.org), Chef de projet
 * [Fanny Cheung](http://ynote.hk/), développeuse front-end
 * [Romain Clavel](https://clavel.io), développeur
 * [Romain Clement](https://romain-clement.net), CTO & développeur
