@@ -52,6 +52,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Kevin Auvinet](https://github.com/ke20), développeur
 * [Hicham Bellahcene](https://github.com/hbellahc), développeur freelance
 * [Guillaume Béranger](https://www.linkedin.com/in/guillaumeberanger/), développeur
+* [Jérémie Bertrand](https://laedit.net), développeur 
 * [Christophe Benz](https://github.com/cbenz), développeur
 * [François Best](https://francoisbest.com), développeur freelance
 * [Romain Blachier](https://www.linkedin.com/in/romainblachier/), Chef de Projet Innovation
