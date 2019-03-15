@@ -98,6 +98,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Richard Hanna](https://supertanuki.github.io/home/), développeur
 * [Matthieu Hébert](https://matthieuhebert.fr), développeur
 * [Quentin Hervé](https://www.linkedin.com/in/quentinherve/), Head of Growth
+* [Raphaël Huchet](https://twitter.com/rap2h), développeur
 * [Matthieu Hue](https://www.linkedin.com/in/matthieu-hue/), ingénieur système
 * [Yoann Jauffroy](https://www.linkedin.com/in/yoannjauffroy/), développeur front-end
 * [Benjamin Jonard](https://github.com/benjaminjonard), développeur web
