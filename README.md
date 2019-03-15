@@ -94,6 +94,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Mathieu Girard](https://twitter.com/matGiWeb), développeur web
 * [Ly-Jia Goldstein](https://twitter.com/Ly_Jia), développeuse
 * [Thomas Goldstein](https://github.com/thomasgoldstein), développeur
+* [Jules Grand](https://www.linkedin.com/in/grand-jls/), formateur
 * [Cyrille Grandval](https://twitter.com/cyrillegrandval), CEO & développeur
 * [Kévin Grenier](https://github.com/mcsky), développeur back/front
 * [Quentin Grimaud](https://www.linkedin.com/in/quentin-grimaud-4379972b/), ingénieur en informatique, développeur full-stack
