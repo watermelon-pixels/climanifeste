@@ -119,6 +119,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Jean-Baptiste Le Dévéhat](https://twitter.com/jbledevehat), designer de services
 * [Raphaël Lemaire](http://raphael-lemaire.com/), consultant en logiciel freelance
 * [Luc Leray](https://github.com/lucleray), développeur
+* [Céline Lescop](https://github.com/clescop), ingénieur en informatique, architecte d'entreprise
 * [Christophe Logiste](https://www.logiste.fr/), webmaster
 * [Jonathan Loss](https://github.com/barroudjo), développeur FullStack JS
 * [Simon Louvet](https://www.doyoubuzz.com/simon-louvet_0), architecte logiciel
