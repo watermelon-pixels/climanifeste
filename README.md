@@ -138,6 +138,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Florent Nollet](https://www.linkedin.com/in/florent-n-7584514/), architecte technique
 * [Raphaël Odienne](https://www.linkedin.com/in/rapha%C3%ABl-o-439192147/), développeur
 * [Laurent Olivares](https://www.olivares.fr), consultant internet
+* [Kévin Ottens](https://ervin.ipsquad.net), software craftsman
 * [Mathieu Ouvrié](https://twitter.com/m_ouvrie), développeur
 * [Marie-Cécile Godwin Paccard](http://mcgodwin.com/), designer
 * [Stéphane Paillet](https://www.linkedin.com/in/stephanepaillet/), sysadmin
