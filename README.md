@@ -103,6 +103,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Xavier Guillemot](https://github.com/xavier-plasma), développeur 
 * [Richard Hanna](https://supertanuki.github.io/home/), développeur
 * [Matthieu Hébert](https://matthieuhebert.fr), développeur
+* [Emmanuelle Helly](https://mastodon.tetaneutral.net/@numahell/), développeuse web
 * [Quentin Hervé](https://www.linkedin.com/in/quentinherve/), Head of Growth
 * [Raphaël Huchet](https://twitter.com/rap2h), développeur
 * [Matthieu Hue](https://www.linkedin.com/in/matthieu-hue/), ingénieur système
