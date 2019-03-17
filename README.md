@@ -110,6 +110,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Matthieu Hue](https://www.linkedin.com/in/matthieu-hue/), ingénieur système
 * [Yoann Jauffroy](https://www.linkedin.com/in/yoannjauffroy/), développeur front-end
 * [Benjamin Jonard](https://github.com/benjaminjonard), développeur web
+* [Pascal Kotté](http://pascal.KOTTE.net), Ethicien digital réducteur de fractures numériques et d'infobésité informatique
 * [Yann Kozon](https://www.yannkozon.com/), développeur web freelance
 * [Vincent "Khylias" Kraus](https://github.com/khylias/), développeur front-end et vacataire
 * [Guillaume Lamanda](https://twitter.com/OlamsInc), développeur
