@@ -62,6 +62,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Clément Bruneteau](https://twitter.com/clembruneteau), sysadmin
 * [Louis-Olivier Brassard](https://loupbrun.ca), designer, développeur et étudiant
 * [Sébastien Camus](http://www.white-lynx.com), consultant webmarketing freelance
+* [Tak Castel](https://twitter.com/TakCastel), développeur
 * [Julien Castelneau](https://twitter.com/CastelneauJ), développeur
 * [Luc Chaffard](http://lucchaffard.com), designer produit
 * [Vincent Chalamon](https://github.com/vincentchalamon), Lead developer
@@ -185,7 +186,6 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Quentin Vignier](https://github.com/Ghriim), Lead développeur PHP Symfony
 * [Christophe Villeger](https://twitter.com/VillegerC), développeur back-end
 * [Arnaud Villéger](http://www.mamaisonsurlatoile.fr), webdesigner
-* [Tak Castel](https://twitter.com/TakCastel), développeur
 
 ## Sources du manifeste
 
