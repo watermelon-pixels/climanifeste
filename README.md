@@ -158,6 +158,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Eric Redon](https://coox.org/), ingénieur logiciel
 * [Vincent Reuss](http://github.com/vichenze), développeur
 * [Ludovic Riaudel](https://ludovic.riaudel.net/), product owner 
+* [Marc Ribault](https://www.open-cy.life), Project manager 
 * [Raphael Richard](http://www.raphaelrichard.net/), formateur IA et Marketing Digital
 * [Sunny Ripert](http://sunfox.org), développeur
 * [Joachim Robert](https://professeurjoachim.com), designer, intégrateur
