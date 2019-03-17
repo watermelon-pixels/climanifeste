@@ -161,6 +161,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Joachim Robert](https://professeurjoachim.com), designer, intégrateur
 * [Alexandre "Pierstoval" Rock Ancelet](https://github.com/Pierstoval/), développeur et formateur
 * [Alexandre Rousseau](http://rousseau-alexandre.fr/), développeur
+* [Vanessa Roux](https://github.com/Vanoux), Développeuse Web 
 * [Anis Safine Laget](https://twitter.com/anis), développeur freelance
 * [Thibaut Sailly](https://tsailly.net), designer
 * [Vincent Salahkar](https://twitter.com/pseudofvincent), développeur
