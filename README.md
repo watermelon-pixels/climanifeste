@@ -102,6 +102,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Cyrille Grandval](https://twitter.com/cyrillegrandval), CEO & développeur
 * [Kévin Grenier](https://github.com/mcsky), développeur back/front
 * [Quentin Grimaud](https://www.linkedin.com/in/quentin-grimaud-4379972b/), ingénieur en informatique, développeur full-stack
+* [Francois-Joseph Grimault](https://www.sharypic.com), artisan développeur
 * [Xavier Guillemot](https://github.com/xavier-plasma), développeur 
 * [Richard Hanna](https://supertanuki.github.io/home/), développeur
 * [Matthieu Hébert](https://matthieuhebert.fr), développeur
