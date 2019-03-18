@@ -123,6 +123,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Patrick Davidson Lambret](https://github.com/determind/), technical product manager (po/pm)
 * [Julien Lambot](https://jumbot.be), Administrateur systèmes
 * [Clément Larrieu](https://glukose.fr), Développeur web freelance
+* [Capucine Laverriere](https://www.linkedin.com/in/capucine-laverri%C3%A8re-duclos-3310228/), coach agile
 * [Christophe Le Besnerais](https://github.com/lebesnec), développeur
 * [Jean-Baptiste Le Dévéhat](https://twitter.com/jbledevehat), designer de services
 * [Raphaël Lemaire](http://raphael-lemaire.com/), consultant en logiciel freelance
