@@ -141,6 +141,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Sylvain Martin](https://github.com/smartinus44), développeur front-end
 * [Claire Mercier](https://github.com/claire2327), développeuse
 * [Thibault Miranda de Oliveira](https://github.com/agaryen), développeur
+* [Yannick Morel](http://latitudes.cc/), co-fondateur de Latitudes - Exploring Tech for Good
 * [Victor Mours](https://github.com/victormours), développeur
 * [Kévin Nadin](https://github.com/kevinjhappy), développeur PHP
 * [Julien Negros](https://twitter.com/djiock), administrateur systèmes
@@ -196,7 +197,6 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Quentin Vignier](https://github.com/Ghriim), Lead développeur PHP Symfony
 * [Christophe Villeger](https://twitter.com/VillegerC), développeur back-end
 * [Arnaud Villéger](http://www.mamaisonsurlatoile.fr), webdesigner
-* [Yannick Morel](http://latitudes.cc/), co-fondateur de Latitudes - Exploring Tech for Good
 
 ## Sources du manifeste
 
