@@ -79,6 +79,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Jean-Baptiste Desbas](https://twitter.com/jbdesbas), géomaticien
 * [Indy De Deken](https://twitter.com/indydedeken), ingénieur commercial
 * [Florian De Sa](https://www.linkedin.com/in/floriandesa/), Product Manager
+* [Gaëtan Dejaegere](https://github.com/gagagast), développeur front-end
 * [Clément Desmidt](https://shikiryu.com), développeur PHP
 * [Laurent Devernay](https://ldevernay.github.io/), formateur
 * [Nicolas Dievart](https://github.com/NicolasDievart), développeur
