@@ -119,6 +119,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Guillaume Lamanda](https://twitter.com/OlamsInc), développeur
 * [Patrick Davidson Lambret](https://github.com/determind/), technical product manager (po/pm)
 * [Julien Lambot](https://jumbot.be), Administrateur systèmes
+* [Clément Larrieu](https://glukose.fr), Développeur web freelance
 * [Christophe Le Besnerais](https://github.com/lebesnec), développeur
 * [Jean-Baptiste Le Dévéhat](https://twitter.com/jbledevehat), designer de services
 * [Raphaël Lemaire](http://raphael-lemaire.com/), consultant en logiciel freelance
