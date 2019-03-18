@@ -59,8 +59,9 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Jibé Bohuon](https://jibe-b.gitlab.io), développeur et libérateur de données
 * [Nicolas Bondoux](https://github.com/Nsbx), développeur web
 * [Julien Bouquillon](https://github.com/revolunet), développeur
-* [Clément Bruneteau](https://twitter.com/clembruneteau), sysadmin
 * [Louis-Olivier Brassard](https://loupbrun.ca), designer, développeur et étudiant
+* [Paul Briton](https://github.com/paulbriton), Développeur
+* [Clément Bruneteau](https://twitter.com/clembruneteau), sysadmin
 * [Sébastien Camus](http://www.white-lynx.com), consultant webmarketing freelance
 * [Tak Castel](https://twitter.com/TakCastel), développeur
 * [Julien Castelneau](https://twitter.com/CastelneauJ), développeur
