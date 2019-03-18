@@ -179,6 +179,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Benjamin Sonntag](https://twitter.com/vincib), CEO & cofondateur de la Quadrature du Net
 * [Martin Souchal](http://www.apc.univ-paris7.fr/~souchal/), sysadmin
 * [Thomas Stocker](https://github.com/kermitsxb), développeur back-end
+* [Mael Thomas](https://github.com/laem), développeur
 * [Jérôme Tanghe](https://deuchnord.fr), développeur
 * [Adrien Taudière](https://adrientaudiere.com), consultant analyses de données et infographie
 * [Bruno Thomas](https://github.com/bamthomas), développeur
