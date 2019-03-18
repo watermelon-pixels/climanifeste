@@ -100,6 +100,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Thomas Geisen](https://www.thomasgeisen.fr), développeur web freelance
 * [Mathieu Girard](https://twitter.com/matGiWeb), développeur web
 * [Johan Girod](https://johangirod.com), développeur web
+* [Timothée Goguely](https://timothee.goguely.com), designer & développeur
 * [Ly-Jia Goldstein](https://twitter.com/Ly_Jia), développeuse
 * [Thomas Goldstein](https://github.com/thomasgoldstein), développeur
 * [Jules Grand](https://www.linkedin.com/in/grand-jls/), formateur
