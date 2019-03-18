@@ -183,6 +183,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Olivier Tille](https://keybase.io/oliviernt), développeur
 * [Pierre Tondereau](https://github.com/ptondereau), développeur fullstack
 * [Mickaël Tricot](https://about.me/mickaeltr), développeur
+* [Jonas Turbeaux](https://github.com/Nasjoe), développeur formateur
 * [Maxime Veber](https://github.com/Nek-), développeur
 * [Loïc Vernet](https://www.strangebuzz.com), lead développeur Symfony freelance
 * [Quentin Vignier](https://github.com/Ghriim), Lead développeur PHP Symfony
