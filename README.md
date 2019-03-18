@@ -58,6 +58,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Romain Blachier](https://www.linkedin.com/in/romainblachier/), Chef de Projet Innovation
 * [Jibé Bohuon](https://jibe-b.gitlab.io), développeur et libérateur de données
 * [Nicolas Bondoux](https://github.com/Nsbx), développeur web
+* [Frédéric Bouchery](https://twitter.com/fredbouchery), Lead développeur
 * [Julien Bouquillon](https://github.com/revolunet), développeur
 * [Louis-Olivier Brassard](https://loupbrun.ca), designer, développeur et étudiant
 * [Paul Briton](https://github.com/paulbriton), Développeur
@@ -180,10 +181,10 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Benjamin Sonntag](https://twitter.com/vincib), CEO & cofondateur de la Quadrature du Net
 * [Martin Souchal](http://www.apc.univ-paris7.fr/~souchal/), sysadmin
 * [Thomas Stocker](https://github.com/kermitsxb), développeur back-end
-* [Mael Thomas](https://github.com/laem), développeur
 * [Jérôme Tanghe](https://deuchnord.fr), développeur
 * [Adrien Taudière](https://adrientaudiere.com), consultant analyses de données et infographie
 * [Bruno Thomas](https://github.com/bamthomas), développeur
+* [Mael Thomas](https://github.com/laem), développeur
 * [Olivier Tille](https://keybase.io/oliviernt), développeur
 * [Pierre Tondereau](https://github.com/ptondereau), développeur fullstack
 * [Mickaël Tricot](https://about.me/mickaeltr), développeur
@@ -193,7 +194,6 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Quentin Vignier](https://github.com/Ghriim), Lead développeur PHP Symfony
 * [Christophe Villeger](https://twitter.com/VillegerC), développeur back-end
 * [Arnaud Villéger](http://www.mamaisonsurlatoile.fr), webdesigner
-* [Frédéric Bouchery](https://twitter.com/fredbouchery), Lead développeur
 
 ## Sources du manifeste
 
