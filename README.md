@@ -92,6 +92,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Yannick Duthé](https://gitlab.com/fluidlog), développeur
 * [Bruno Duyé](https://github.com/brunetton), développeur
 * [Adrien Elo](https://www.linkedin.com/in/adrien-elo-04400347), Ingénieur système
+* [Charles Englebert](https://www.linkedin.com/in/englebert-charles-b87548b2/), ingénieur sciences des données
 * [Jonathan Fallon](https://dotify.eu), développeur indépendant
 * [Benoît Faurie](https://twitter.com/Everyways), développeur et scrum master
 * [Jean-François Fourmond](https://github.com/jffourmond), développeur freelance
@@ -203,8 +204,6 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Christophe Villeger](https://twitter.com/VillegerC), développeur back-end
 * [Arnaud Villéger](http://www.mamaisonsurlatoile.fr), webdesigner
 * [Damien Vouzellaud](https://www.linkedin.com/in/damien-vouzellaud-277193167/), IT project manager
-* [Charles Englebert](https://www.linkedin.com/in/englebert-charles-b87548b2/), ingénieur sciences des données
-
 
 ## Sources du manifeste
 
