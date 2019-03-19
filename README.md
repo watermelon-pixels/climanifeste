@@ -16,7 +16,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 
 * Soutenez cette action :
   * **en vous ajoutant dans la [liste](#premiers-signataires) des signataires**
-    * si vous avez un compte GitHub, [modifiez cette page](https://github.com/climanifeste/climanifeste/edit/master/README.md) et ajoutez `[Prénom Nom](https://site-web-ou-twitter-ou-toute-autre-lien-sur-internet)` (dans l'ordre alphabétique du nom de famille)
+    * si vous avez un compte GitHub, [modifiez cette page](https://github.com/climanifeste/climanifeste/edit/master/README.md) et ajoutez `[Prénom Nom](https://site-web-ou-twitter-ou-toute-autre-lien-sur-internet), métier` (dans l'ordre alphabétique du nom de famille)
     * sinon, envoyez-nous Prénom+Nom+métier+lien à contact@climanifeste.net
   * en partageant le manifeste
   * [en suivant l'actualité du manifeste sur Twitter](https://twitter.com/climanifeste)
