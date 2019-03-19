@@ -203,6 +203,8 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Christophe Villeger](https://twitter.com/VillegerC), développeur back-end
 * [Arnaud Villéger](http://www.mamaisonsurlatoile.fr), webdesigner
 * [Damien Vouzellaud](https://www.linkedin.com/in/damien-vouzellaud-277193167/), IT project manager
+* [Charles Englebert](https://www.linkedin.com/in/englebert-charles-b87548b2/), ingénieur sciences des données
+
 
 ## Sources du manifeste
 
