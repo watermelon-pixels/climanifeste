@@ -138,10 +138,10 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Simon Louvet](https://www.doyoubuzz.com/simon-louvet_0), architecte logiciel
 * [Marc Loyat](https://github.com/mloyat/), développeur
 * [Hortense Mahon](https://github.com/Hortich), développeuse
-* [Laurent Martelli](https://github.com/lmartelli), développeur
 * [Hélène Marchois](https://github.com/hmarchois), agiliste
 * [Mathieu Marchois](https://github.com/mmarchois), développeur
 * [Thierry Marianne](https://thierry.marianne.io), développeur
+* [Laurent Martelli](https://github.com/lmartelli), développeur
 * [Pierre Martin](https://twitter.com/pierremartin), développeur
 * [Sylvain Martin](https://github.com/smartinus44), développeur front-end
 * [Stéphanie Matharet](https://matharet.com/), directrice artistique, graphiste
