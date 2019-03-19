@@ -137,13 +137,14 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Jonathan Loss](https://github.com/barroudjo), développeur FullStack JS
 * [Simon Louvet](https://www.doyoubuzz.com/simon-louvet_0), architecte logiciel
 * [Marc Loyat](https://github.com/mloyat/), développeur
+* [Hortense Mahon](https://github.com/Hortich), développeuse
 * [Laurent Martelli](https://github.com/lmartelli), développeur
-* [Stéphanie Matharet](https://matharet.com/), directrice artistique, graphiste
 * [Hélène Marchois](https://github.com/hmarchois), agiliste
 * [Mathieu Marchois](https://github.com/mmarchois), développeur
 * [Thierry Marianne](https://thierry.marianne.io), développeur
 * [Pierre Martin](https://twitter.com/pierremartin), développeur
 * [Sylvain Martin](https://github.com/smartinus44), développeur front-end
+* [Stéphanie Matharet](https://matharet.com/), directrice artistique, graphiste
 * [Claire Mercier](https://github.com/claire2327), développeuse
 * [Thibault Miranda de Oliveira](https://github.com/agaryen), développeur
 * [Yannick Morel](http://latitudes.cc/), co-fondateur de Latitudes - Exploring Tech for Good
