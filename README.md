@@ -91,6 +91,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Lisa Durand](http://www.superdudu.net/), développeuse / graphiste
 * [Yannick Duthé](https://gitlab.com/fluidlog), développeur
 * [Bruno Duyé](https://github.com/brunetton), développeur
+* [Adrien Elo](https://www.linkedin.com/in/adrien-elo-04400347), Ingénieur système
 * [Jonathan Fallon](https://dotify.eu), développeur indépendant
 * [Benoît Faurie](https://twitter.com/Everyways), développeur et scrum master
 * [Jean-François Fourmond](https://github.com/jffourmond), développeur freelance
