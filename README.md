@@ -53,7 +53,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Maxime Auriau](https://github.com/mauriau), développeur full stack
 * [Kevin Auvinet](https://github.com/ke20), développeur
 * [Hicham Bellahcene](https://github.com/hbellahc), développeur freelance
-* [Mohammed BOURAINE](https:github.com/bouraine), full stack developper
+* [Mohammed Bouraine](https:github.com/bouraine), full stack developper
 * [Guillaume Béranger](https://www.linkedin.com/in/guillaumeberanger/), développeur
 * [Olivia Bertout](https://fr.linkedin.com/in/olivia-bertout-0b39348), chef de projet
 * [Jérémie Bertrand](https://laedit.net), développeur 
