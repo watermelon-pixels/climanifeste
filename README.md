@@ -215,7 +215,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 
 ### Signatures de personnes morales
 
-* [Codeurs en Liberté](https://www.codeursenliberte.fr/) Coopérative d’indépendant·e·s en informatique
+* [Codeurs en Liberté](https://www.codeursenliberte.fr/), Coopérative d’indépendant·e·s en informatique
 
 ## Sources du manifeste
 
