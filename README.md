@@ -35,6 +35,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Pour un manifeste écologique des professionnel·le·s de l'informatique, interview de Jean-François Fourmond](https://techologie.net/episodes/6-manifeste-ecologique-des-professionnels-de-l-informatique.html)
 * [Pour une sobriété numérique](https://theshiftproject.org/article/pour-une-sobriete-numerique-rapport-shift/), le rapport sur l’impact environnemental du numérique, publiée par l'association The Shift Project.
 * [Quel numérique voulons-nous ?](https://reset.fing.org/), une initiative collective menée par l'association Fing.
+* [Les outils du Collectif Conception Numérique Responsable](http://collectif.greenit.fr/outils.html), le collectif agit concrètement en rassemblant des contributeurs qui proposent des solutions constructives, gratuites, ouvertes, pour tout le monde, sans exception. La ligne de conduite du Collectif : changer le système de l'intérieur !
 
 ## Premiers signataires
 
