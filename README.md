@@ -172,6 +172,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Louis Pinot de Villechenon](https://www.linkedin.com/in/louis-pinot-de-villechenon-914a525b/), product manager
 * [William Pollet](https://github.com/williampollet), développeur
 * [Romain Pellerin](https://romainpellerin.eu), développeur
+* [Yann Perrau](https://www.linkedin.com/in/yannperrau/), consultant en transformation digitale
 * [Alan Poulain](https://github.com/alanpoulain), développeur
 * [Romuald Priol](https://twitter.com/doc_roms), développeur
 * [Yann Prou](https://github.com/toofff), développeur
