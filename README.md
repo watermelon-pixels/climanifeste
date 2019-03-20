@@ -64,6 +64,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Frédéric Bouchery](https://twitter.com/fredbouchery), Lead développeur
 * [Alexandre Bouhier](https://www.linkedin.com/in/alexandre-bouhier-43314085), développeur
 * [Julien Bouquillon](https://github.com/revolunet), développeur
+* [Ismaël Bouya](https://www.immae.eu), développeur
 * [Louis-Olivier Brassard](https://loupbrun.ca), designer, développeur et étudiant
 * [Paul Briton](https://github.com/paulbriton), Développeur
 * [Clément Bruneteau](https://twitter.com/clembruneteau), sysadmin
