@@ -126,6 +126,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Quentin Hervé](https://www.linkedin.com/in/quentinherve/), Head of Growth
 * [Raphaël Huchet](https://twitter.com/rap2h), développeur
 * [Matthieu Hue](https://www.linkedin.com/in/matthieu-hue/), ingénieur système
+* [Cédric Huynh](https://www.linkedin.com/in/cedrichuynh/), ingénieur de développement
 * [Yoann Jauffroy](https://www.linkedin.com/in/yoannjauffroy/), développeur front-end
 * [Benjamin Jonard](https://github.com/benjaminjonard), développeur web
 * [Pascal Kotté](http://pascal.KOTTE.net), Ethicien digital réducteur de fractures numériques et d'infobésité informatique
