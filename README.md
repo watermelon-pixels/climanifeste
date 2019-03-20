@@ -40,6 +40,8 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 
 [Cliquez-ici](https://github.com/climanifeste/climanifeste/edit/master/README.md) pour ajouter (ou enlever) votre nom à la liste des signataires (dans l'ordre alphabétique du nom de famille) ou envoyez-nous un mail à contact@climanifeste.net.
 
+### Signatures de personnes physiques
+
 * [Amayas Abboute](https://github.com/mayes21), développeur 
 * [Maxence Aici](http://aici.me), développeur 
 * [Hamza Amrouche](https://github.com/simperfit), lead développeur Symfony
@@ -210,6 +212,10 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Christophe Villeger](https://twitter.com/VillegerC), développeur back-end
 * [Arnaud Villéger](http://www.mamaisonsurlatoile.fr), webdesigner
 * [Damien Vouzellaud](https://www.linkedin.com/in/damien-vouzellaud-277193167/), IT project manager
+
+### Signatures de personnes morales
+
+* [Codeurs en Liberté](https://www.codeursenliberte.fr/) Coopérative d’indépendant·e·s en informatique
 
 ## Sources du manifeste
 
