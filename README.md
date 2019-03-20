@@ -103,6 +103,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Benoit Galati](https://github.com/b-galati), développeur
 * [Marine Gandy](https://twitter.com/mupsigraphy), développeuse PHP
 * [Thomas Geisen](https://www.thomasgeisen.fr), développeur web freelance
+* [Thierry Gentes](https://www.linkedin.com/in/thierry-gentes-101/), Chef de projet Business Intelligence
 * [Mathieu Girard](https://twitter.com/matGiWeb), développeur web
 * [Johan Girod](https://johangirod.com), développeur web
 * [Timothée Goguely](https://timothee.goguely.com), designer & développeur
