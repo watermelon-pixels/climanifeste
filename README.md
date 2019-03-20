@@ -74,6 +74,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Erik Charlesson](mailto:erik.charlesson@mailoo.org), Chef de projet
 * [Hakim Cheikh](https://www.linkedin.com/in/hakimcheikh/), consultant analyse de données
 * [Fanny Cheung](http://ynote.hk/), développeuse front-end
+* [Fethi Chouder](https://github.com/FetCh86), développeur web
 * [Romain Clavel](https://clavel.io), développeur
 * [Romain Clement](https://romain-clement.net), CTO & développeur
 * [Yaacov Cohen](https://www.goodimpact.studio), développeur et dirigeant
