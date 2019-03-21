@@ -162,6 +162,7 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * [Laurent Martelli](https://github.com/lmartelli), développeur
 * [Pierre Martin](https://twitter.com/pierremartin), développeur
 * [Sylvain Martin](https://github.com/smartinus44), développeur front-end
+* [Tom Masson](https://www.linkedin.com/in/tom-masson-659167116/), Developpeur Web
 * [Stéphanie Matharet](https://matharet.com/), directrice artistique, graphiste
 * [Claire Mercier](https://github.com/claire2327), développeuse
 * [Thibault Miranda de Oliveira](https://github.com/agaryen), développeur
