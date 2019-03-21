@@ -139,6 +139,7 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * [Raphaël Huchet](https://twitter.com/rap2h), développeur
 * [Matthieu Hue](https://www.linkedin.com/in/matthieu-hue/), ingénieur système
 * [Cédric Huynh](https://www.linkedin.com/in/cedrichuynh/), ingénieur de développement
+* [Vincent Jacquemin](https://www.linkedin.com/in/vincent-jacquemin-4b700446/), Lead developer
 * [Yoann Jauffroy](https://www.linkedin.com/in/yoannjauffroy/), développeur front-end
 * [Benjamin Jonard](https://github.com/benjaminjonard), développeur web
 * [Pascal Kotté](http://pascal.KOTTE.net), Ethicien digital réducteur de fractures numériques et d'infobésité informatique
