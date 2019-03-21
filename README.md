@@ -223,6 +223,7 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * [Christophe Villeger](https://twitter.com/VillegerC), développeur back-end
 * [Arnaud Villéger](http://www.mamaisonsurlatoile.fr), webdesigner
 * [Damien Vouzellaud](https://www.linkedin.com/in/damien-vouzellaud-277193167/), IT project manager
+* [Tom Masson](https://www.linkedin.com/in/tom-masson-659167116/), Developpeur Web
 
 ### Signatures de personnes morales
 
