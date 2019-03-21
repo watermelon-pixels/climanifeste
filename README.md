@@ -173,6 +173,7 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * [Yannick Morel](http://latitudes.cc/), co-fondateur de Latitudes - Exploring Tech for Good
 * [Sylvain Mougenot](https://github.com/smougenot), IT crowd member
 * [Victor Mours](https://github.com/victormours), développeur
+* [Léo Mouyna](https://twitter.com/MouynaLeo), développeur full stack
 * [Kévin Nadin](https://github.com/kevinjhappy), développeur PHP
 * [Julien Negros](https://twitter.com/djiock), administrateur systèmes
 * [Florent Nollet](https://www.linkedin.com/in/florent-n-7584514/), architecte technique
