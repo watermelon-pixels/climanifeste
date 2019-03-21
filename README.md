@@ -214,6 +214,7 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * [Vincent Salahkar](https://twitter.com/pseudofvincent), développeur
 * [Martin Salles](https://github.com/sallesma), développeur
 * [Emmanuel Salomon](https://github.com/ManUtopiK), développeur web fullstack
+* [Mathieu Santo Stefano--Féron](https://github.com/welcomattic), développeur
 * [Matthieu Scarset](https://matthieuscarset.com/), développeur
 * [Victor Schmidt](https://vict0rs.ch), data scientist, doctorant IA
 * [Julien Soleilhavoup](https://twitter.com/DevInKilt), développeur
