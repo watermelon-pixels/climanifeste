@@ -56,6 +56,7 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * [Faten Asselin-Mezhoud](https://twitter.com/mmfaten), QA Analyst 
 * [Louis Augry](https://github.com/LouisAugry), développeur front-end
 * [Maxime Auriau](https://github.com/mauriau), développeur full stack
+* [Yann Autissier](https://github.com/aya), architecte technique
 * [Kevin Auvinet](https://github.com/ke20), développeur
 * [Hicham Bellahcene](https://github.com/hbellahc), développeur freelance
 * [Guillaume Béranger](https://www.linkedin.com/in/guillaumeberanger/), développeur
