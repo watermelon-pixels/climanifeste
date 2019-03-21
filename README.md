@@ -164,6 +164,7 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * [Claire Mercier](https://github.com/claire2327), développeuse
 * [Thibault Miranda de Oliveira](https://github.com/agaryen), développeur
 * [Yannick Morel](http://latitudes.cc/), co-fondateur de Latitudes - Exploring Tech for Good
+* [Sylvain Mougenot](https://github.com/smougenot), IT crowd member
 * [Victor Mours](https://github.com/victormours), développeur
 * [Kévin Nadin](https://github.com/kevinjhappy), développeur PHP
 * [Julien Negros](https://twitter.com/djiock), administrateur systèmes
