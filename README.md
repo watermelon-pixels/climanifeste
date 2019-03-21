@@ -59,6 +59,7 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * [Kevin Auvinet](https://github.com/ke20), développeur
 * [Hicham Bellahcene](https://github.com/hbellahc), développeur freelance
 * [Guillaume Béranger](https://www.linkedin.com/in/guillaumeberanger/), développeur
+* [Benjamin Bernard-Bouissières](https://www.linkedin.com/in/benjamin-bernard-bouissi%C3%A8res-9b1810a7/), Développeur Python
 * [Olivia Bertout](https://fr.linkedin.com/in/olivia-bertout-0b39348), chef de projet
 * [Jérémie Bertrand](https://laedit.net), développeur 
 * [Christophe Benz](https://github.com/cbenz), développeur
@@ -223,7 +224,6 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * [Christophe Villeger](https://twitter.com/VillegerC), développeur back-end
 * [Arnaud Villéger](http://www.mamaisonsurlatoile.fr), webdesigner
 * [Damien Vouzellaud](https://www.linkedin.com/in/damien-vouzellaud-277193167/), IT project manager
-* [Benjamin Bernard-Bouissières](https://www.linkedin.com/in/benjamin-bernard-bouissi%C3%A8res-9b1810a7/), Développeur Python
 
 ### Signatures de personnes morales
 
