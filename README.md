@@ -12,6 +12,8 @@ La plupart des entreprises peinent à recruter assez d'informaticien·ne·s<sup>
 
 Choisissons de mettre toute notre énergie au service d'entreprises qui répondent à nos valeurs, pas au profit de celles qui détruisent notre avenir !
 
+*Texte publié le 11/02/2019.*
+
 ## Comment participer ?
 
 * Soutenez cette action :
