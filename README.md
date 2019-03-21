@@ -234,6 +234,7 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * [Arnaud Villéger](http://www.mamaisonsurlatoile.fr), webdesigner
 * [Philippe Villiers](https://github.com/kissifrot), développeur back-end
 * [Damien Vouzellaud](https://www.linkedin.com/in/damien-vouzellaud-277193167/), IT project manager
+* [Grégoire Pineau](https://github.com/lyrixx), développeur
 
 ### Signatures de personnes morales
 
