@@ -183,6 +183,7 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * [Marie-Cécile Godwin Paccard](http://mcgodwin.com/), designer
 * [Stéphane Paillet](https://www.linkedin.com/in/stephanepaillet/), sysadmin
 * [Tom Panier](https://neemzy.org), lead développeur web full-stack
+* [Grégoire Pineau](https://github.com/lyrixx), développeur
 * [Louis Pinot de Villechenon](https://www.linkedin.com/in/louis-pinot-de-villechenon-914a525b/), product manager
 * [William Pollet](https://github.com/williampollet), développeur
 * [Romain Pellerin](https://romainpellerin.eu), développeur
@@ -234,7 +235,6 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * [Arnaud Villéger](http://www.mamaisonsurlatoile.fr), webdesigner
 * [Philippe Villiers](https://github.com/kissifrot), développeur back-end
 * [Damien Vouzellaud](https://www.linkedin.com/in/damien-vouzellaud-277193167/), IT project manager
-* [Grégoire Pineau](https://github.com/lyrixx), développeur
 
 ### Signatures de personnes morales
 
