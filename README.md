@@ -116,6 +116,7 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * [Thomas Geisen](https://www.thomasgeisen.fr), développeur web freelance
 * [Thierry Gentes](https://www.linkedin.com/in/thierry-gentes-101/), Chef de projet Business Intelligence
 * [Mathieu Girard](https://twitter.com/matGiWeb), développeur web
+* [Gwenaël Girod](https://gwenaelgirod.com), développeur web
 * [Johan Girod](https://johangirod.com), développeur web
 * [Timothée Goguely](https://timothee.goguely.com), designer & développeur
 * [Ly-Jia Goldstein](https://twitter.com/Ly_Jia), développeuse
