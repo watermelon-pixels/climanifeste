@@ -220,10 +220,10 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * [Maxime Veber](https://github.com/Nek-), développeur
 * [Loïc Vernet](https://www.strangebuzz.com), lead développeur Symfony freelance
 * [Quentin Vignier](https://github.com/Ghriim), Lead développeur PHP Symfony
-* [Benjamin Bernard-Bouissières](https://github.com/Benbb96), Développeur Python
 * [Christophe Villeger](https://twitter.com/VillegerC), développeur back-end
 * [Arnaud Villéger](http://www.mamaisonsurlatoile.fr), webdesigner
 * [Damien Vouzellaud](https://www.linkedin.com/in/damien-vouzellaud-277193167/), IT project manager
+* [Benjamin Bernard-Bouissières](https://www.linkedin.com/in/benjamin-bernard-bouissi%C3%A8res-9b1810a7/), Développeur Python
 
 ### Signatures de personnes morales
 
