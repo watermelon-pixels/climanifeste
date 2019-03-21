@@ -151,6 +151,7 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * [Julien Lambot](https://jumbot.be), Administrateur systèmes
 * [Stéphane Langlois](http://scopyleft.fr), Difficultateur bientraitant 
 * [Clément Larrieu](https://glukose.fr), Développeur web freelance
+* [Benoît Latinier](https://www.etpuiscolette.com), Développeur & devops
 * [Capucine Laverriere](https://www.linkedin.com/in/capucine-laverri%C3%A8re-duclos-3310228/), coach agile
 * [Christophe Le Besnerais](https://github.com/lebesnec), développeur
 * [Jean-Baptiste Le Dévéhat](https://twitter.com/jbledevehat), designer de services
