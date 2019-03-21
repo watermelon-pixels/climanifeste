@@ -18,8 +18,6 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 
 * Soutenez cette action :
   * **en vous ajoutant dans la [liste](#premiers-signataires) des signataires**
-    * si vous avez un compte GitHub, [modifiez cette page](https://github.com/climanifeste/climanifeste/edit/master/README.md) et ajoutez `[Prénom Nom](https://site-web-ou-twitter-ou-toute-autre-lien-sur-internet), métier` (dans l'ordre alphabétique du nom de famille)
-    * sinon, envoyez-nous Prénom+Nom+métier+lien à contact@climanifeste.net
   * en partageant le manifeste
   * [en suivant l'actualité du manifeste sur Twitter](https://twitter.com/climanifeste)
 * Impliquez-vous : 
@@ -40,7 +38,12 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 
 ## Premiers signataires
 
-[Cliquez-ici](https://github.com/climanifeste/climanifeste/edit/master/README.md) pour ajouter (ou enlever) votre nom à la liste des signataires (dans l'ordre alphabétique du nom de famille) ou envoyez-nous un mail à contact@climanifeste.net.
+Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
+* si vous avez un compte GitHub, **[cliquez-ici pour modifier cette page](https://github.com/climanifeste/climanifeste/edit/master/README.md)** et 
+  * ajoutez `[Prénom Nom](https://site-web-ou-twitter-ou-toute-autre-lien-sur-internet), métier` 
+  * pensez à l'ordre alphabétique (du nom de famille) 🙏
+  * validez la pull request
+* sinon, envoyez-nous un e-mail avec Prénom+Nom+métier+URL (de votre profil LinkedIn par ex.) à contact@climanifeste.net
 
 ### Signatures de personnes physiques
 
