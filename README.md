@@ -183,6 +183,7 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * [Louis Pinot de Villechenon](https://www.linkedin.com/in/louis-pinot-de-villechenon-914a525b/), product manager
 * [William Pollet](https://github.com/williampollet), développeur
 * [Romain Pellerin](https://romainpellerin.eu), développeur
+* [Thibault Pelloquin](https://github.com/ThibaultPelloquin), développeur
 * [Yann Perrau](https://www.linkedin.com/in/yannperrau/), consultant en transformation digitale
 * [Alan Poulain](https://github.com/alanpoulain), développeur
 * [Romuald Priol](https://twitter.com/doc_roms), développeur
