@@ -191,6 +191,7 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * [Vincent Reuss](http://github.com/vichenze), développeur
 * [Ludovic Riaudel](https://ludovic.riaudel.net/), product owner 
 * [Marc Ribault](https://www.open-cy.life), Project manager 
+* [Benjamin Richard](https://www.linkedin.com/in/benrichard/), Manager technique, concepteur/développeur
 * [Raphael Richard](http://www.raphaelrichard.net/), formateur IA et Marketing Digital
 * [Sunny Ripert](http://sunfox.org), développeur
 * [Joachim Robert](https://professeurjoachim.com), designer, intégrateur
@@ -222,7 +223,6 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * [Christophe Villeger](https://twitter.com/VillegerC), développeur back-end
 * [Arnaud Villéger](http://www.mamaisonsurlatoile.fr), webdesigner
 * [Damien Vouzellaud](https://www.linkedin.com/in/damien-vouzellaud-277193167/), IT project manager
-* [Benjamin RICHARD](https://www.linkedin.com/in/benrichard/), Manager technique, concepteur/développeur
 
 ### Signatures de personnes morales
 
