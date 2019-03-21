@@ -88,6 +88,7 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * [Yaacov Cohen](https://www.goodimpact.studio), développeur et dirigeant
 * [Grégory Copin](https://github.com/gregcop1), directeur technique
 * [Brice Coquereau](https://brice.coquereau.fr/), CTO & développeur
+* [Olivier Dahan](https://github.com/olivier1208/), développeur
 * [Nicolas Damiens](https://twitter.com/chticolas), développeur
 * [Jean-Baptiste Desbas](https://twitter.com/jbdesbas), géomaticien
 * [Indy De Deken](https://twitter.com/indydedeken), ingénieur commercial
