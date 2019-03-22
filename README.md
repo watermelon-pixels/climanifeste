@@ -92,10 +92,11 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * [Brice Coquereau](https://brice.coquereau.fr/), CTO & développeur
 * [Olivier Dahan](https://github.com/olivier1208/), développeur
 * [Nicolas Damiens](https://twitter.com/chticolas), développeur
-* [Jean-Baptiste Desbas](https://twitter.com/jbdesbas), géomaticien
 * [Indy De Deken](https://twitter.com/indydedeken), ingénieur commercial
 * [Florian De Sa](https://www.linkedin.com/in/floriandesa/), Product Manager
 * [Gaëtan Dejaegere](https://github.com/gagagast), développeur front-end
+* [Florian Delahaye](https://www.linkedin.com/in/fld/), développeur
+* [Jean-Baptiste Desbas](https://twitter.com/jbdesbas), géomaticien
 * [Clément Desmidt](https://shikiryu.com), développeur PHP
 * [Laurent Devernay](https://ldevernay.github.io/), formateur
 * [Nicolas Dievart](https://github.com/NicolasDievart), développeur
