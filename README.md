@@ -212,6 +212,7 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * [Joachim Robert](https://professeurjoachim.com), designer, intégrateur
 * [Alexandre "Pierstoval" Rock Ancelet](https://github.com/Pierstoval/), développeur et formateur
 * [Alexandre Rousseau](http://rousseau-alexandre.fr/), développeur
+* [Gauthier Roussilhe] (http://www.gauthierroussilhe.com), designer
 * [Vanessa Roux](https://github.com/Vanoux), Développeuse Web 
 * [Anis Safine Laget](https://twitter.com/anis), développeur freelance
 * [Thibaut Sailly](https://tsailly.net), designer
