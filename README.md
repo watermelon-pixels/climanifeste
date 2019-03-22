@@ -195,6 +195,7 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * [Romain Pellerin](https://romainpellerin.eu), développeur
 * [Thibault Pelloquin](https://github.com/ThibaultPelloquin), développeur
 * [Yann Perrau](https://www.linkedin.com/in/yannperrau/), consultant en transformation digitale
+* [Romain Pierre](https://github.com/romain-pierre), lead développeur
 * [Alan Poulain](https://github.com/alanpoulain), développeur
 * [Romuald Priol](https://twitter.com/doc_roms), développeur
 * [Yann Prou](https://github.com/toofff), développeur
