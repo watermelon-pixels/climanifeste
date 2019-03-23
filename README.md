@@ -146,6 +146,7 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * [Vincent Jacquemin](https://www.linkedin.com/in/vincent-jacquemin-4b700446/), Lead developer
 * [Yoann Jauffroy](https://www.linkedin.com/in/yoannjauffroy/), développeur front-end
 * [Benjamin Jonard](https://github.com/benjaminjonard), développeur web
+* [Dan Kaminowicz](https://www.linkedin.com/in/dan-kaminowicz-1b1309163/), développeur
 * [Pascal Kotté](http://pascal.KOTTE.net), Ethicien digital réducteur de fractures numériques et d'infobésité informatique
 * [Yann Kozon](https://www.yannkozon.com/), développeur web freelance
 * [Vincent "Khylias" Kraus](https://github.com/khylias/), développeur front-end et vacataire
