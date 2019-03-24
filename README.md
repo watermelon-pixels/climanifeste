@@ -59,6 +59,7 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * [Maxime Auriau](https://github.com/mauriau), développeur full stack
 * [Yann Autissier](https://github.com/aya), architecte technique
 * [Kevin Auvinet](https://github.com/ke20), développeur
+* [Jean Belicot](https://www.linkedin.com/in/jean-belicot-a3408886/), sys-admin, développeur
 * [Hicham Bellahcene](https://github.com/hbellahc), développeur freelance
 * [Guillaume Béranger](https://www.linkedin.com/in/guillaumeberanger/), développeur
 * [Benjamin Bernard-Bouissières](https://www.linkedin.com/in/benjamin-bernard-bouissi%C3%A8res-9b1810a7/), Développeur Python
