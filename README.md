@@ -116,6 +116,7 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * [Jonathan Fallon](https://dotify.eu), développeur indépendant
 * [Benoît Faurie](https://twitter.com/Everyways), développeur et scrum master
 * [Suzanne Favot](https://twitter.com/sfavot), développeur
+* [David Foucher](https://github.com/tyjak), développeur
 * [Jean-François Fourmond](https://github.com/jffourmond), développeur freelance
 * [Dimitri Fruit](https://twitter.com/DimitriMorgan), développeur et scrum master
 * [Vincent Fuger](https://twitter.com/Rhedynen_), développeur
@@ -249,7 +250,6 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * [Philippe Villiers](https://github.com/kissifrot), développeur back-end
 * [Damien Vouzellaud](https://www.linkedin.com/in/damien-vouzellaud-277193167/), IT project manager
 * [Sylvain Yner](https://fr.linkedin.com/in/sylvain-y-58403198), Front-end Dev
-* [David Foucher](https://github.com/tyjak), développeur
 
 ### Signatures de personnes morales
 
