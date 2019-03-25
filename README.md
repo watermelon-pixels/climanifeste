@@ -116,6 +116,7 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * [Jonathan Fallon](https://dotify.eu), développeur indépendant
 * [Benoît Faurie](https://twitter.com/Everyways), développeur et scrum master
 * [Suzanne Favot](https://twitter.com/sfavot), développeur
+* [David Foucher](https://github.com/tyjak), développeur
 * [Jean-François Fourmond](https://github.com/jffourmond), développeur freelance
 * [Dimitri Fruit](https://twitter.com/DimitriMorgan), développeur et scrum master
 * [Vincent Fuger](https://twitter.com/Rhedynen_), développeur
