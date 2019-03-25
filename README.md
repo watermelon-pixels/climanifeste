@@ -79,6 +79,7 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * [Paul Briton](https://github.com/paulbriton), Développeur
 * [Clément Bruneteau](https://twitter.com/clembruneteau), sysadmin
 * [Sébastien Camus](http://www.white-lynx.com), consultant webmarketing freelance
+* [Marceau Casals](https://www.404lab.fr/), CTO & dev full-stack
 * [Tak Castel](https://twitter.com/TakCastel), développeur
 * [Julien Castelneau](https://twitter.com/CastelneauJ), développeur
 * [Luc Chaffard](http://lucchaffard.com), designer produit
