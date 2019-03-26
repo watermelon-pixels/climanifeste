@@ -17,7 +17,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 ## Comment participer ?
 
 * Soutenez cette action :
-  * **en vous ajoutant dans la [liste](#premiers-signataires) des signataires**
+  * **en vous ajoutant dans la [liste](#les-200-premiers-signataires) des signataires**
   * en partageant le manifeste
   * [en suivant l'actualité du manifeste sur Twitter](https://twitter.com/climanifeste)
 * Impliquez-vous : 
@@ -37,7 +37,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Quel numérique voulons-nous ?](https://reset.fing.org/), une initiative collective menée par l'association Fing.
 * [Les outils du Collectif Conception Numérique Responsable](http://collectif.greenit.fr/outils.html). Le collectif agit concrètement en rassemblant des contributeurs qui proposent des solutions constructives, gratuites, ouvertes, pour tout le monde, sans exception. La ligne de conduite du Collectif : changer le système de l'intérieur !
 
-## Premiers signataires
+## Les 200 premiers signataires
 
 Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * si vous avez un compte GitHub, **[cliquez-ici pour modifier cette page](https://github.com/climanifeste/climanifeste/edit/master/README.md)** et 
@@ -46,7 +46,7 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
   * validez la pull request
 * sinon, envoyez-nous un e-mail avec Prénom+Nom+métier+URL (de votre profil LinkedIn par ex.) à contact@climanifeste.net
 
-### Signatures de personnes physiques
+### personnes physiques
 
 * [Amayas Abboute](https://github.com/mayes21), développeur 
 * [Maxence Aici](http://aici.me), développeur 
@@ -253,7 +253,7 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * [Damien Vouzellaud](https://www.linkedin.com/in/damien-vouzellaud-277193167/), IT project manager
 * [Sylvain Yner](https://fr.linkedin.com/in/sylvain-y-58403198), Front-end Dev
 
-### Signatures de personnes morales
+### personnes morales
 
 * [Codeurs en Liberté](https://www.codeursenliberte.fr/), Coopérative d’indépendant·e·s en informatique
 
