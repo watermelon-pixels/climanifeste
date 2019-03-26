@@ -142,6 +142,7 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * [Richard Hanna](https://supertanuki.github.io/home/), développeur
 * [Matthieu Hébert](https://matthieuhebert.fr), développeur
 * [Emmanuelle Helly](https://mastodon.tetaneutral.net/@numahell/), développeuse web
+* [Jean-Sébastien Herpin](http://jsherpin.fr), Développeur
 * [Quentin Hervé](https://www.linkedin.com/in/quentinherve/), Head of Growth
 * [Raphaël Huchet](https://twitter.com/rap2h), développeur
 * [Matthieu Hue](https://www.linkedin.com/in/matthieu-hue/), ingénieur système
