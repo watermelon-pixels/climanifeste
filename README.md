@@ -234,6 +234,7 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * [Mathieu Santo Stefano--Féron](https://github.com/welcomattic), développeur
 * [Matthieu Scarset](https://matthieuscarset.com/), développeur
 * [Victor Schmidt](https://vict0rs.ch), data scientist, doctorant IA
+* [Sébastien Serre](https://thivinfo.com), développeur WordPress
 * [Julien Soleilhavoup](https://twitter.com/DevInKilt), développeur
 * [Sébastien Solère](https://twitter.com/sebsolere), facilitateur agile
 * [Benjamin Sonntag](https://twitter.com/vincib), CEO & cofondateur de la Quadrature du Net
