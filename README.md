@@ -145,6 +145,7 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * [Emmanuelle Helly](https://mastodon.tetaneutral.net/@numahell/), développeuse web
 * [Jean-Sébastien Herpin](http://jsherpin.fr), Développeur
 * [Quentin Hervé](https://www.linkedin.com/in/quentinherve/), Head of Growth
+* [Bastien Ho](https://ba.stienho.fr/), Développeur
 * [Raphaël Huchet](https://twitter.com/rap2h), développeur
 * [Matthieu Hue](https://www.linkedin.com/in/matthieu-hue/), ingénieur système
 * [Maxime Huran](https://twitter.com/MaximeHuran), développeur web
@@ -258,6 +259,7 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 ### personnes morales
 
 * [Codeurs en Liberté](https://www.codeursenliberte.fr/), Coopérative d’indépendant·e·s en informatique
+* [N.O.U.S. Ouvert Utile et Simple](https://avecnous.eu/), Agence numérique engagée
 
 ## Sources du manifeste
 
