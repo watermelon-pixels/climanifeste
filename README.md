@@ -114,6 +114,7 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * [Hicham El Kaddioui](https://github.com/hichamelkaddioui), développeur
 * [Adrien Elo](https://www.linkedin.com/in/adrien-elo-04400347), Ingénieur système
 * [Charles Englebert](https://www.linkedin.com/in/englebert-charles-b87548b2/), ingénieur sciences des données
+* [Jérémy Falck](https://www.linkedin.com/in/jeremyfalck/), développeur
 * [Jonathan Fallon](https://dotify.eu), développeur indépendant
 * [Benoît Faurie](https://twitter.com/Everyways), développeur et scrum master
 * [Suzanne Favot](https://twitter.com/sfavot), développeur
