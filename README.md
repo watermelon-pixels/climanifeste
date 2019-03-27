@@ -195,6 +195,7 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * [Florent Nollet](https://www.linkedin.com/in/florent-n-7584514/), architecte technique
 * [Raphaël Odienne](https://www.linkedin.com/in/rapha%C3%ABl-o-439192147/), développeur
 * [Laurent Olivares](https://www.olivares.fr), consultant internet
+* [Julien Orain](https://twitter.com/juorainbzh), développeur
 * [Kévin Ottens](https://ervin.ipsquad.net), software craftsman
 * [Mathieu Ouvrié](https://twitter.com/m_ouvrie), développeur
 * [Marie-Cécile Godwin Paccard](http://mcgodwin.com/), designer
