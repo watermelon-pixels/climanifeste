@@ -55,6 +55,7 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * [Rachel Arnould](https://twitter.com/rachel_arn), Product Owner Freelance
 * [Roxanne Asnar](https://www.linkedin.com/in/roxanne-asnar/), développeuse web
 * [Faten Asselin-Mezhoud](https://twitter.com/mmfaten), QA Analyst 
+* [Jean-Baptiste Audras](https://jeanbaptisteaudras.com), Directeur technique en agence & WordPress Core Developer
 * [Louis Augry](https://github.com/LouisAugry), développeur front-end
 * [Maxime Auriau](https://github.com/mauriau), développeur full stack
 * [Yann Autissier](https://github.com/aya), architecte technique
