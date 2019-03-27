@@ -125,6 +125,7 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * [Jean-Michel Gaillard](https://twitter.com/jeanmigaillard), Sysadmin
 * [Benoit Galati](https://github.com/b-galati), développeur
 * [Marine Gandy](https://twitter.com/mupsigraphy), développeuse PHP
+* [Thomas Gasc](https://methylbro.fr), développeur
 * [Thomas Geisen](https://www.thomasgeisen.fr), développeur web freelance
 * [Thierry Gentes](https://www.linkedin.com/in/thierry-gentes-101/), Chef de projet Business Intelligence
 * [Mathieu Girard](https://twitter.com/matGiWeb), développeur web
