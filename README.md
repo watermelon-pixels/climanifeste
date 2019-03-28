@@ -205,6 +205,7 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * [Tom Panier](https://neemzy.org), lead développeur web full-stack
 * [Grégoire Pineau](https://github.com/lyrixx), développeur
 * [Louis Pinot de Villechenon](https://www.linkedin.com/in/louis-pinot-de-villechenon-914a525b/), product manager
+* [Florian Poisson](https://twitter.com/florian_fish), développeur
 * [William Pollet](https://github.com/williampollet), développeur
 * [Romain Pellerin](https://romainpellerin.eu), développeur
 * [Thibault Pelloquin](https://github.com/ThibaultPelloquin), développeur
