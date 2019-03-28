@@ -249,6 +249,7 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * [Bruno Thomas](https://github.com/bamthomas), développeur
 * [Mael Thomas](https://github.com/laem), développeur
 * [Olivier Tille](https://keybase.io/oliviernt), développeur
+* [Marion Tommasi](https://github.com/marionTommasi), doctorante
 * [Pierre Tondereau](https://github.com/ptondereau), développeur fullstack
 * [Mickaël Tricot](https://about.me/mickaeltr), développeur
 * [Jonas Turbeaux](https://github.com/Nasjoe), développeur formateur
