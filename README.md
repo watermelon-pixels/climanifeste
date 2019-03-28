@@ -141,6 +141,7 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * [Kévin Grenier](https://github.com/mcsky), développeur back/front
 * [Quentin Grimaud](https://www.linkedin.com/in/quentin-grimaud-4379972b/), ingénieur en informatique, développeur full-stack
 * [Francois-Joseph Grimault](https://www.sharypic.com), artisan développeur
+* [Corentin Grosdemouge](https://github.com/kaeh), développeur
 * [Thomas Guesnon](https://framagit.org/patjennings), designer, développeur
 * [Xavier Guillemot](https://github.com/xavier-plasma), développeur 
 * [Richard Hanna](https://supertanuki.github.io/home/), développeur
