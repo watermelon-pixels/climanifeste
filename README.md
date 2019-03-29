@@ -248,6 +248,7 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * [Thomas Stocker](https://github.com/kermitsxb), développeur back-end
 * [Jérôme Tanghe](https://deuchnord.fr), développeur
 * [Adrien Taudière](https://adrientaudiere.com), consultant analyses de données et infographie
+* [Christophe Thiburs](https://www.linkedin.com/in/christophe-thiburs-9094a34b), testing
 * [Bruno Thomas](https://github.com/bamthomas), développeur
 * [Mael Thomas](https://github.com/laem), développeur
 * [Olivier Tille](https://keybase.io/oliviernt), développeur
