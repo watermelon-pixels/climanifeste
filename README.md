@@ -102,6 +102,7 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * [Florian De Sa](https://www.linkedin.com/in/floriandesa/), Product Manager
 * [Gaëtan Dejaegere](https://github.com/gagagast), développeur front-end
 * [Florian Delahaye](https://www.linkedin.com/in/fld/), développeur
+* [Kevin Delfour](https://www.linkedin.com/in/kevindelfour/), Technical Expert / Scrum master 
 * [Jean-Baptiste Desbas](https://twitter.com/jbdesbas), géomaticien
 * [Clément Desmidt](https://shikiryu.com), développeur PHP
 * [Laurent Devernay](https://ldevernay.github.io/), formateur
@@ -266,6 +267,7 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * [Philippe Villiers](https://github.com/kissifrot), développeur back-end
 * [Damien Vouzellaud](https://www.linkedin.com/in/damien-vouzellaud-277193167/), IT project manager
 * [Sylvain Yner](https://fr.linkedin.com/in/sylvain-y-58403198), Front-end Dev
+
 
 ### personnes morales
 
