@@ -72,6 +72,7 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * [François Best](https://francoisbest.com), développeur freelance
 * [Romain Blachier](https://www.linkedin.com/in/romainblachier/), Chef de Projet Innovation
 * [Jibé Bohuon](https://jibe-b.gitlab.io), développeur et libérateur de données
+* [Simon Boisnard](https://www.linkedin.com/in/simonboisnard/), Product manager
 * [Nicolas Bondoux](https://github.com/Nsbx), développeur web
 * [Frédéric Bouchery](https://twitter.com/fredbouchery), Lead développeur
 * [Alexandre Bouhier](https://www.linkedin.com/in/alexandre-bouhier-43314085), développeur
