@@ -107,6 +107,7 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * [Jean-Baptiste Desbas](https://twitter.com/jbdesbas), géomaticien
 * [Clément Desmidt](https://shikiryu.com), développeur PHP
 * [Laurent Devernay](https://ldevernay.github.io/), formateur
+* [Nicolas Dewez](https://github.com/nicolasdewez), lead dev
 * [Nicolas Dievart](https://github.com/NicolasDievart), développeur
 * [Olivier Dolbeau](https://github.com/odolbeau), CTO & développeur
 * [Geoffrey Dorne](https://graphism.fr/), designer
