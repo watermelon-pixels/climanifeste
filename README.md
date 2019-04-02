@@ -176,6 +176,7 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 * [Luc Leray](https://github.com/lucleray), développeur
 * [Céline Lescop](https://github.com/clescop), ingénieur en informatique, architecte d'entreprise
 * [Christophe Logiste](https://www.logiste.fr/), webmaster
+* [Romain Lorenzini](https://www.linkedin.com/in/romain-lorenzini-06a0873/), Community Founder & Senior IT Consultant 
 * [Jonathan Loss](https://github.com/barroudjo), développeur FullStack JS
 * [Simon Louvet](https://www.doyoubuzz.com/simon-louvet_0), architecte logiciel
 * [Marc Loyat](https://github.com/mloyat/), développeur
@@ -274,6 +275,7 @@ Pour ajouter (ou enlever) votre nom à la liste des signataires, 2 solutions :
 ### personnes morales
 
 * [Codeurs en Liberté](https://www.codeursenliberte.fr/), Coopérative d’indépendant·e·s en informatique
+* [CollectiveMakers](https://www.collectivemakers.com/), Communauté d'expert·e·s IT
 * [N.O.U.S. Ouvert Utile et Simple](https://avecnous.eu/), Agence numérique engagée
 
 ## Sources du manifeste
